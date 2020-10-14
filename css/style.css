@@ -3003,3 +3003,9 @@ h6 {
 /*---------------------------------------------------- */
 
 /*# sourceMappingURL=style.css.map */
+
+/* CUSTOM EDITS */
+.blog-image {
+  max-width: 80%;
+  max-height: 400px;
+}
