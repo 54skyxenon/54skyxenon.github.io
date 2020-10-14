@@ -1,3 +1,2 @@
-# 54skyxenon.github.io
-The code to Brandon Liang's personal website.
-Just did a major redesign as of April 18, 2020. You can find the old code under `archived/`.
+# brandonliang.com
+The code to my personal website. I update this occasionally if there are significant events in my life.
