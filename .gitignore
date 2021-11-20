@@ -1,0 +1,11 @@
+# Stolen from: https://github.com/gohugoio/hugo/blob/master/examples/blog/.gitignore
+
+# Hugo default output directory
+/public
+
+## OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
