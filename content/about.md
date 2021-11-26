@@ -1,7 +1,13 @@
 ---
 title: "About Me"
-date: 2021-11-20
-draft: true
+date: 2021-11-26
+draft: false
 ---
 
-I decided to migrate from my old website to a blog website on the Hugo engine! My university friend [Josh](https://joshspicer.com) gave me some great advice to change to a minimalistic website, as I'd get tired of the design less easily.
+<p align="center">
+  <img style="max-width: 90%; border-radius: 3%;" src="/images/personal.png" />
+</p>
+
+I'm a third-year studying computer science at **[Northeastern University](https://www.northeastern.edu/)** 🇺🇸, living out my dreams. Currently, I'm living abroad in Switzerland as a visting student at the **[University of Zürich](https://www.uzh.ch/en.html)** and **[ETH Zürich](https://ethz.ch/en.html)** 🇨🇭! My first exposure to computers came through downloading a virus on my father's computer, prompting my curiosity... and the rest is history.
+
+~~In Boston, you can catch me hanging out with other nerds at NUHacks or solving competitive programming problems at HCPC.~~ In Zürich, you'll probably catch me doing compilers homework in the ETH Polyterrasse or engrossed in an [AIESEC meeting](https://aiesec.org/). When I'm not doing school stuff, I'm probably playing [DragonFable](https://dragonfable.com), saving my German streak on Duolingo, watching anime (especially Sword Art Online), or traveling.

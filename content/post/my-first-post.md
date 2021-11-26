@@ -1,7 +1,7 @@
 ---
-title: "First Post!"
-date: 2021-11-20
-draft: true
+title: "My First Post!"
+date: 2021-09-04
+draft: false
 ---
 
-I decided to migrate from my old website to a blog website on the Hugo engine! My friend [Josh](https://joshspicer.com) advised me to change to a minimalistic website, so I'd get tired of the design less easily.
+I decided to migrate from my old website to a blog on the Hugo engine, since I feel like writing to capture my _unconventional_ college experience. My university friend [Josh](https://joshspicer.com) also gave me some great advice to change to a minimalistic website as I'd get tired of the design less easily.
