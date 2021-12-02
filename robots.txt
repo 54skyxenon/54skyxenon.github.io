@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://54skyxenon.github.io/sitemap.xml
+Sitemap: https://brandonliang.com/sitemap.xml
