@@ -1,5 +1,5 @@
 ---
-title: "Co-op Hunt: 2022 Edition"
+title: "Co-op Quest: 2022"
 date: 2021-11-20
 draft: true
 ---

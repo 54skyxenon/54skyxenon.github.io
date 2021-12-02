@@ -34,10 +34,10 @@ copyright = ""            # default: author.name
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "About"
+  name = "Blog"
   weight = 2
-  identifier = "about"
-  url = "/about/"
+  identifier = "archives"
+  url = "/blog/"
 [[menu.main]]
   name = "Projects"
   weight = 3
@@ -53,16 +53,6 @@ copyright = ""            # default: author.name
   weight = 5
   identifier = "hackathons"
   url = "/hackathons/"
-[[menu.main]]
-  name = "Archives"
-  weight = 6
-  identifier = "archives"
-  url = "/post/"
-# [[menu.main]]
-#   name = "Categories"
-#   weight = 6
-#   identifier = "categories"
-#   url = "/categories/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
@@ -209,7 +199,7 @@ copyright = ""            # default: author.name
 # see https://gohugo.io/getting-started/configuration-markup
 [markup]
   [markup.tableOfContents]
-    startLevel = 1
+    startLevel = 2
   [markup.goldmark.renderer]
     unsafe = true
 
