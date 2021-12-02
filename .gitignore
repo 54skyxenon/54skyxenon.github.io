@@ -2,6 +2,9 @@
 
 # Hugo default output directory
 /public
+/resources/_gen/
+__archived/
+__archived2/
 
 ## OS Files
 Thumbs.db
