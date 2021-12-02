@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://54skyxenon.github.io"
 languageCode = "en"
 defaultContentLanguage = "en"
 title = "Brandon Liang"
@@ -63,7 +63,7 @@ copyright = ""            # default: author.name
   gitRepo = ""
 
   # site info (optional)
-  logoTitle = "Brandon"        # default: the title value
+  logoTitle = "Bliang"        # default: the title value
   keywords = ["Hugo", "theme", "even"]
   description = "Brandon Liang's personal website."
 
@@ -186,8 +186,9 @@ copyright = ""            # default: author.name
 
   [params.social]
     a-email = "mailto:liang.bra@northeastern.edu"
-    e-linkedin = "https://www.linkedin.com/in/bwliang/"
-    g-github = "https://github.com/54skyxenon"
+    b-link = "question"
+    c-linkedin = "https://www.linkedin.com/in/bwliang/"
+    d-github = "https://github.com/54skyxenon"
 
 # See https://gohugo.io/about/hugo-and-gdpr/
 [privacy]

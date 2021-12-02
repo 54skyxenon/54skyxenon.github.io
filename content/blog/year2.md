@@ -5,4 +5,5 @@ draft: true
 ---
 
 Sophomore year of undergrad.
-<!--more--> 
+
+Read the sequel here...

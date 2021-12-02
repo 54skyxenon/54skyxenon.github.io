@@ -1,7 +1,7 @@
 ---
 title: "Co-op Quest: 2021"
 date: 2021-11-19
-draft: true
+draft: false
 ---
 
 <p align="center">

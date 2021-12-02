@@ -5,8 +5,5 @@ draft: true
 ---
 
 Freshman year of undergrad.
-<!--more--> 
-
-I wanted to put my toxic high school experience behind me, I think I did a good job...
 
 Read the sequel here...
