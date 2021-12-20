@@ -72,7 +72,7 @@ It took a _long long_ time to onboard, in fact nearly **25%** of the time of my 
 
 Thankfully, I had an amazing intern partner during this time period I could bounce off ideas and resolve errors with (shoutout to Morgan)! Slowly, we began to understand each element of the codebase and its purpose. During this process, we would engage in daily standups with our mentors, gradually working towards an acceptable REST API design for endpoints that would add new Azure Active Directory users to a Postgres instance when pinged. Working with a massive codebase, we made progress through experimenting with minimal "Hello World" functions that gave us insight on how the REST API workflow would behave.
 
-I didn't start fully coding until the last 4 weeks or so, but I did move fast when doing so. Pulling a few late-nighters, I barely managed to finish my project on time and scraped by with a return offer I was unenthusiastic about.
+I didn't start fully coding until the last 4 weeks or so, but I did move fast when doing so. Pulling a few late-nighters, I barely managed to finish my project on time and scraped by with a return offer!
 
 ---
 
