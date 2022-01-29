@@ -1,6 +1,6 @@
 ---
 title: "Hackathons"
-date: 2021-11-20
+date: 2022-01-29
 draft: false
 ---
 
@@ -37,13 +37,6 @@ Before the pandemic, I would travel to a hackathon once every other weekend. Her
 ---
 
 <center><h2>COVID happened, a year of silence...</h2></center>
-
----
-
-<center><h1>LAHacks 2020 (remote)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/lahacks.jpg" />
-</p>
 
 ---
 

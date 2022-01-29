@@ -6,6 +6,13 @@ draft: false
 
 # _Have a look at some the best projects I've done in my developer career!_
 
+## EAST
+<p align="center">
+  <img style="width: 60%; border-radius: 3%;" src="/images/gallery/project-8.jpg" />
+</p>
+It stands for "Endangered Animal Species Tracker". Edge computing using drones is an emerging technology I wanted to try out to write such an application. Video footage is forwarded from a drone to an RCNN trained with transfer learning for live object detection on animals!
+
+---
 ## Sign Friendly
 <p align="center">
   <img style="width: 60%; border-radius: 3%;" src="/images/gallery/project-7.png" />
