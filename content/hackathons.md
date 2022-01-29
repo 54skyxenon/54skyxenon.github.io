@@ -11,7 +11,14 @@ Before the pandemic, I would travel to a hackathon once every other weekend. Her
 - HackMIT (Cambridge, MA)
 - VandyHacks (Nashville, TN)
 
-> My next planned hackathon is [Hack Cambridge](https://hackcambridge.com/) in the United Kingdom from January 22-23, 2022!
+> My next planned hackathon is [Hack Beanpot](https://hackbeanpot.com/) virtually from February 11-13, 2022 (as a volunteer)!
+
+---
+
+<center><h1>Hack Cambridge Atlas 2022 (Cambridge, United Kingdom)</h1></center>
+<p align="center">
+    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/hackcambridge.png" />
+</p>
 
 ---
 
