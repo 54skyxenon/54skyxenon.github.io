@@ -8,7 +8,7 @@ draft: false
 
 During the Fall 2021 semester, I studied computer science as an exchange student at the University of Zürich and a special student at ETH Zürich in Switzerland. Here's how it went.
 
-_(Most of this content is readapted from my exchange experience report)_
+_(Most of this content is readapted from my exchange experience report, thanks goes to my friend Elaine for helping me edit this.)_
 
 # Preparing
 
