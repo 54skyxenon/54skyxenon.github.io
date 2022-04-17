@@ -3,6 +3,10 @@ title: "Co-op Quest: 2022"
 date: 2022-04-16
 draft: false
 ---
+
+# Co-op Quest: 2022
+Read the 2021 prequel [[here]](../recruiting-2021)
+
 <p align="center">
   <img style="max-width: 90%; border-radius: 3%;" src="/images/snow-duol-fb-2022.png" />
 </p>
@@ -20,7 +24,7 @@ I interned as a software engineer at [Snowflake](https://www.snowflake.com/) wor
 > 
 > Offers: **7**
 
-With Microsoft and ETH Zurich on my resume, I heard back from a lot more companies this cycle. Being a junior also *formally* qualified me for a lot more summer internship positions. This year, I wanted to gain experience working for smaller and more fast-paced companies -- naturally I would interview with several unicorns and trading firms.
+Was it really that time of year again? Thankfully, I heard back from a lot more companies this cycle with Microsoft and ETH Zurich on my resume. Being a junior also *formally* qualified me for a lot more summer internship positions. This year, I wanted to gain experience working for smaller and more fast-paced companies -- naturally I would interview with several unicorns and trading firms.
 
 These smaller yet desirable set of companies could afford to be picky with their candidates. There was a noticeable increase in difficulty, variety, length, and thoroughness in the questions I was asked, compared to normal FAANG-type LeetCode interviews. Now that I had experience, I was also expected to carefully articulate on my work done in previous internships. At the same time, I thought these interviews were more enjoyable as they were more interactive.
 
@@ -49,7 +53,5 @@ After 5 months of interviewing, everything eventually fell into place. I would l
 ## Facebook
 
 **More content coming soon!**
-
-Read the 2021 prequel [[here]](../recruiting-2021)
 
 *2023 finale coming eventually!*
