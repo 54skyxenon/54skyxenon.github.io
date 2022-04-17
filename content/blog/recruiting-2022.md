@@ -24,7 +24,7 @@ I interned as a software engineer at [Snowflake](https://www.snowflake.com/) wor
 > 
 > Offers: **7**
 
-Was it really that time of year again? Thankfully, I heard back from a lot more companies this cycle with Microsoft and ETH Zurich on my resume. Being a junior also *formally* qualified me for a lot more summer internship positions. This year, I wanted to gain experience working for smaller and more fast-paced companies -- naturally I would interview with several unicorns and trading firms.
+Was it really that time of the year again? Thankfully, I heard back from a lot more companies this cycle with Microsoft and ETH Zurich on my resume. Being a junior also *formally* qualified me for a lot more summer internship positions. This year, I wanted to gain experience working for smaller and more fast-paced companies -- naturally I would interview with several unicorns and trading firms.
 
 These smaller yet desirable set of companies could afford to be picky with their candidates. There was a noticeable increase in difficulty, variety, length, and thoroughness in the questions I was asked, compared to normal FAANG-type LeetCode interviews. Now that I had experience, I was also expected to carefully articulate on my work done in previous internships. At the same time, I thought these interviews were more enjoyable as they were more interactive.
 
@@ -36,7 +36,7 @@ The logistics of this application cycle were weird to say the least. I began app
 
 I received my first offer in late September from Duolingo (whose onsite I gave *right* before my flight to Switzerland)! That took care of Summer 2022, but my co-op cycle (Spring 2022) was harder to deal with because ETH Zurich holds exams up until February of the next year. Many companies I received offers from could not accommodate such a start date, and ETH declined my request to take these exams earlier. 
 
-My first instinct was to change my co-op cycle to Fall 2022. Around then, I had received an offer from Meta following my hackathon in the Czech Republic that was about to expire, which I ended up allocating to the fall. Simply too good to pass up. But that still left the awkward gap of Spring 2022 - what was I going to do up until the summer? I signed up for some part-time classes at Northeastern so I could graduate as intended, but I kept interviewing to find a solution.
+My first instinct was to change my co-op cycle to Fall 2022. Around then, I had received an offer from Meta following my hackathon in Prague that was about to expire, which I ended up allocating to the fall. Simply too good to pass up. But that still left the awkward gap of Spring 2022 - what was I going to do up until the summer? I signed up for some part-time classes at Northeastern so I could graduate as intended, but I kept interviewing to find a solution.
 
 After a very long hiatus in mid-November, Snowflake resumed its hiring process and invited me to a phone screen. It almost seemed too good to be true, but they were fast to schedule interviews and I got an offer just after a week. Not only that, they were willing to accommodate a late February start date and end before my summer internship began, and it was all fully remote so I could keep my part-time classes as well! 
 
