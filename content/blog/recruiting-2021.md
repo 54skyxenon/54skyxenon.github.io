@@ -5,6 +5,7 @@ draft: false
 ---
 
 # Co-op Quest: 2021
+**<i>Last modified on: 2022-04-17</i>**
 <p align="center">
   <img style="max-width: 90%; border-radius: 3%;" src="/images/mw-msft-2021.png" />
 </p>
@@ -79,5 +80,4 @@ I didn't start fully coding until the last 4 weeks or so, but I did move fast wh
 
 My biggest takeaway from working in industry for the first time is that coding never takes long if you carefully plan out your thoughts, which is reflected in the coding interview as well. The resulting code should be precise and unverbose.
 
-_2022 Edition coming soon!_
-<!-- Read the 2022 sequel [here](../recruiting-2022)... -->
+Read the 2022 sequel [[here]](../recruiting-2022)

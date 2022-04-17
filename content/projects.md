@@ -6,6 +6,14 @@ draft: false
 
 # _Have a look at some the best projects I've done in my developer career!_
 
+---
+<center><h2>AR Quiz</h2></center>
+<p align="center">
+  <img style="width: 60%; border-radius: 3%;" src="/images/gallery/project-9.png" />
+</p>
+It's an augmented reality scavenger hunt. We made a quiz game in Unity where each question prompts you to find a QR in a specific room, which when scanned, renders a 3d object that answers the question (try this one 😉)! <a href="https://www.youtube.com/watch?v=5PCPTEP7SO0">[Demo]</a>
+
+---
 <center><h2>EAST</h2></center>
 <p align="center">
   <img style="width: 60%; border-radius: 3%;" src="/images/gallery/project-8.jpg" />

@@ -11,7 +11,14 @@ Before the pandemic, I would travel to a hackathon once every other weekend. Her
 - HackMIT (Cambridge, MA)
 - VandyHacks (Nashville, TN)
 
-> My next planned hackathon is [Hack Beanpot](https://hackbeanpot.com/) virtually from February 11-13, 2022 (as a volunteer)!
+> My next planned hackathon is [DragonHacks](https://dragonhacks.live/) in Philadelphia, PA from April 30th - May 1st, 2022!
+
+---
+
+<center><h1>CatHacks VIII (Lexington, KY)</h1></center>
+<p align="center">
+    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/cathacks.png" />
+</p>
 
 ---
 

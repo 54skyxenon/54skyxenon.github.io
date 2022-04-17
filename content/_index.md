@@ -14,6 +14,6 @@ Hi, I'm **Brandon**, a third-year studying computer science at **[Northeastern U
 
 ~~At home, you'll probably find me listening to music, napping, or trying to fix my nosebleed.~~
 
-In Boston, you can catch me hanging out with other nerds at NUHacks or solving competitive programming problems at HCPC.
+In Boston, you can probably catch me hanging out with other nerds at NUHacks, studying probability brainteasers to prepare for interviews, or reading a book on the 5th floor of ISEC.
 
-When I'm not doing school stuff, I'm probably playing [DragonFable](https://dragonfable.com), saving my German 🇩🇪 streak on Duolingo, watching anime (especially SAO), or traveling.
+When I'm not doing school stuff, I'm probably playing [Master Duel](https://www.konami.com/yugioh/masterduel/us/en/) or [DragonFable](https://dragonfable.com), saving my German 🇩🇪 streak on Duolingo, watching anime (especially SAO), or traveling.

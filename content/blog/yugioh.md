@@ -4,7 +4,9 @@ date: 2022-03-29
 draft: false
 ---
 
-I got back into Yu-Gi-Oh! recently with the iOS release of Master Duel and have built two very different decks for competitive play. At the time of writing, I've made it to Platinum V tier.
+**<i>Last modified on: 2022-04-17</i>**
+
+I got back into Yu-Gi-Oh! recently with the iOS release of Master Duel and have built two very different decks for competitive play. The best tier I've made it to is Platinum V.
 
 ## D/D/D
 
