@@ -13,7 +13,7 @@ Read the 2021 prequel [[here]](../recruiting-2021)
 
 Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester, here's how it went during my junior year.
 
-I interned as a software engineer at [Snowflake](https://www.snowflake.com/) working on **TBD**, followed by [Duolingo](https://www.duolingo.com) working on **TBD**, followed by [Meta](https://about.facebook.com/meta/) working on **TBD**.
+I interned as a software engineer at [Snowflake](https://www.snowflake.com/) in Boston working on **TBD**, followed by [Duolingo](https://www.duolingo.com) in Pittsburgh working on **TBD**, followed by [Meta](https://about.facebook.com/meta/) in NYC working on **TBD**.
 
 ## The Application Process
 > Applied: **104**
