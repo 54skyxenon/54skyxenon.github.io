@@ -1,10 +1,9 @@
 # Stolen from: https://github.com/gohugoio/hugo/blob/master/examples/blog/.gitignore
 
 # Hugo default output directory
-/public
-/resources/_gen/
-__archived/
-__archived2/
+public/
+resources/_gen/
+themes/even/resources/_gen/
 
 ## OS Files
 Thumbs.db
