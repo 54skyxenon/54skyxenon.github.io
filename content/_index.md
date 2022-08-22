@@ -16,6 +16,6 @@ Hi, I'm **Brandon**, a rising senior studying computer science at **[Northeaster
 
 ~~In Boston, you can probably catch me hanging out with other nerds at NUHacks, studying programming/mathematical brainteasers to prepare for interviews, or reading a book on the 5th floor of ISEC.~~
 
-In Pittsburgh, you'll probably find me hoarding sparkling water from the fridge at work.
+In Pittsburgh, you'll probably find me hoarding sparkling water from the fridge at work or reading a book in a random CMU building.
 
 When I'm not doing school stuff or working, I'm probably playing [**Master Duel**](https://www.konami.com/yugioh/masterduel/us/en/) or [**DragonFable**](https://dragonfable.com), saving my German 🇩🇪 streak on Duolingo, watching anime (especially SAO), or traveling.

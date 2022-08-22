@@ -4,9 +4,13 @@ date: 2022-04-27
 draft: false
 ---
 
-**<i>Last modified on: 2022-04-17</i>**
+**<i>Last modified on: 2022-08-22</i>**
 
-I got back into Yu-Gi-Oh! recently with the iOS release of Master Duel and have built two different decks for competitive play. The highest tier I've made it to as of this writing is Platinum IV.
+I got back into Yu-Gi-Oh! recently with the iOS release of Master Duel and have built three different decks for competitive play. The highest tier I've made it to as of this writing is Platinum I (after Diamond rank update).
+
+## Swordsoul Tenyi
+
+TODO
 
 ## D/D/D
 

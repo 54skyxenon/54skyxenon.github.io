@@ -1,11 +1,11 @@
 ---
-title: "Co-op Quest: 2021"
+title: "Co-op Duels: 2021"
 date: 2021-11-19
 draft: false
 ---
 
-# Co-op Quest: 2021
-**<i>Last modified on: 2022-04-17</i>**
+# Co-op Duels: 2021
+**<i>Last modified on: 2022-08-22</i>**
 <p align="center">
   <img style="max-width: 90%; border-radius: 3%;" src="/images/mw-msft-2021.png" />
 </p>
@@ -40,7 +40,7 @@ In early October, I was exhausted from interviewing along with a intense course 
 ## MathWorks
 They make MATLAB and Simulink, popular scientific computing apps used in academia and government contractors.
 
-If there's one thing I could say about MathWorks, the first that comes to mind is a **strong emphasis on work-life balance**. Many engineers I worked with were offline on Teams by 5 PM and it felt very weird to continue working after that. It's a good environment to raise a family in and employee tenure tended to be high.
+MathWorks had a **strong emphasis on work-life balance**. Many engineers I worked with were offline on Teams by 5 PM and it felt very weird to continue working after that. It's a good environment to raise a family in and employee tenure tended to be high.
 
 Since I was a spring intern, the other interns and I could afford more attention from our mentors and get to know each other better (compared to a massive summer cohort). We had Friday bonding sessions where we'd play online games and teach each other something new about software engineering!
 
@@ -55,29 +55,29 @@ The first project I was assigned was adding font properties to MATLAB App Design
 
 The codebase itself conformed to a [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) architecture, and the tech stack consisted of C++, MATLAB, and JavaScript. All that suffering in Object-Oriented Design came to use! I remember some days struggling trying to debug vast C++ files, so I must thank my mentor, manager, and coworkers for being supportive and willing to offer their help. I finished this project with around 3-4 weeks to spare and I could take on another.
 
-My second project exhibited a stark contrast to my first: I took on a new mentor in a completely different engineering division and the focus of my project would not be software development. Instead, it would be a reverse-engineering research project: I would analyze usage of the OpenGL Graphics library on MacOS machines. Apple is infamous for introducing breaking changes in its new products, so if Apple chose to deprecate OpenGL in a future MacOS release, then it would break MATLAB as the application relies heavily on OpenGL. Gathering usage statistics would help MathWorks predict when exactly this would happen in the future.
+My second project exhibited a stark contrast to my first: I took on a new mentor in a different engineering division and the focus of my project would not be software development. Instead, it would be a reverse-engineering research project: I would analyze usage of the OpenGL Graphics library on MacOS machines. Apple is infamous for introducing breaking changes in its new products, so if Apple chose to deprecate OpenGL in a future MacOS release, then it would break MATLAB as the application relies heavily on OpenGL. Gathering usage statistics would help MathWorks predict when exactly this would happen in the future.
 
 How I could approach this analysis was much more open-ended as I was not working on a customer-facing product, so I opted to exercise my Python scripting skills. I wrote a script to iterate over binaries on older Intel-based Macs and newer M1-Chip Macs, aggregating OpenGL utilization statistics across these binaries and preparing a presentation using this data as a final deliverable. 
 
 Both of my mentors were happy with my work, and my time in MathWorks ended on a good note.
 
 ## Microsoft
-They need no introduction, but overall I didn't have the best experience. Earlier in November the previous year, the in-person program was cancelled. I lived with my parents back in Los Angeles instead of with other interns at Microsoft's sprawling Redmond headquarters. Unfortunately, not much of [this](https://medium.com/@techie4good/microsoft-has-the-best-internship-of-all-time-633f7c251773).
+They need no introduction, but I didn't have a great experience. Earlier in November the previous year, the in-person program was cancelled. I lived with my parents back in Los Angeles instead of with other interns at Microsoft's sprawling Redmond headquarters. Unfortunately, not much of [this](https://medium.com/@techie4good/microsoft-has-the-best-internship-of-all-time-633f7c251773).
 
-My first impression was that Microsoft was **complex and bureaucratic**. There are four main engineering divisions and too many different teams under each of them for me to comprehend, even amongst my own organization. While Microsoft does have a reputation in tech for good work-life balance, this is not true if you are in an Azure team.
+Microsoft was too **bureaucratic and complex** for my taste. There are four main engineering divisions and too many different teams under each of them for me to comprehend, even amongst my own organization. While Microsoft does have a reputation in tech for good work-life balance, this is not true if you are in an Azure team.
 
-There were no shortage of intern activities -- at times it could be overwhelming meeting many new people and being exposed to so much talent. There are signature events like [Puzzle Day](https://puzzlehunt.azurewebsites.net/pd2021/play) that you can't miss out on.
+There were no shortage of intern activities -- at times it could be overwhelming meeting many new people and being exposed to so much talent. There are signature events like [Puzzle Day](https://puzzlehunt.azurewebsites.net/pd2021/play) I did with my friend [Jim](http://jimzwu.com/).
 
-My intern project was to add Active Directory authentication to a service called Azure Database for PostgreSQL -- Flexible Server. What this means is that instead of authenticating on a PostgreSQL server with an email and password like usual, you could authenticate with your Microsoft organization account. It's like logging into a website using Facebook or Google instead of just a normal email. The scale of this project was a sizeable increase from my time at MathWorks, since instead of targeting a subset of MATLAB users, I was targeting billion-dollar enterprises that had contracts with Azure.
+My intern project was to add Active Directory authentication to a service called [Azure Database for PostgreSQL -- Flexible Server](https://docs.microsoft.com/en-us/azure/postgresql/flexible-server/). What this means is that instead of authenticating on a PostgreSQL server with a normal email, you could authenticate with your Microsoft organization account. Think of logging into a website alternatively using Google. The scale of this project was a sizeable increase from my time at MathWorks, since instead of targeting a subset of MATLAB users, I was targeting billion-dollar enterprises that had contracts with Azure.
 
-It took a _long long_ time to onboard, in fact nearly **25%** of the time of my internship was spent trying to do so! Figuring out what each build script did, waiting for Visual Studio to load, installing the necessary tools to debug C#, and even dealing with general Windows issues were arduous. A jumbled internal wiki with periodically outdated information did not help. On the bright side, at least I learned a bunch of cloud computing concepts and even some automata theory sifting through all that documentation!
+It took a _painfully long_ time to onboard, in fact nearly **25%** of the time of my internship was spent trying to do so! Figuring out what each build script did, waiting for Visual Studio to load, installing the necessary tools to debug C#, and even dealing with general Windows issues were arduous. A jumbled internal wiki with periodically outdated information did not help. (On the bright side, at least I learned a bunch of cloud computing concepts and some applications of automata theory sifting through all that documentation)
 
-Thankfully, I had an amazing intern partner during this time period I could bounce off ideas and resolve errors with (shoutout to Morgan)! Slowly, we began to understand each element of the codebase and its purpose. During this process, we would engage in daily standups with our mentors, gradually working towards an acceptable REST API design for endpoints that would add new Azure Active Directory users to a Postgres instance when pinged. Working with a massive codebase, we made progress through experimenting with minimal "Hello World" functions that gave us insight on how the REST API workflow would behave.
+Thankfully, I had an amazing intern partner during this time period I could bounce off ideas and resolve errors with (shoutout to Morgan)! Slowly, we began to understand each element of the codebase and its purpose. We engaged in daily standups with our mentors, gradually working towards a REST API for endpoints that would add new Azure Active Directory users to a Postgres instance when pinged. Working with a massive codebase, we made progress through experimenting with minimal "Hello World" functions that gave us insight on how the REST API workflow would behave.
 
-I didn't start fully coding until the last 4 weeks or so, but I did move fast when doing so. Pulling a few late-nighters, I barely managed to finish my project on time and scraped by with a return offer!
+I didn't start fully coding until the last 4 weeks or so, but I did move fast when doing so. Pulling a few late-nighters, I finished a majority of my project and scraped by with a return offer I knew wasn't taking. One year later, I realized my teammates felt the same way as three people switched companies.
 
 ---
 
-My biggest takeaway from working in industry for the first time is that coding never takes long if you carefully plan out your thoughts, which is reflected in the coding interview as well. The resulting code should be precise and unverbose.
+My biggest takeaway from working in industry for the first time is that coding never takes long if you carefully plan out your thoughts. The resulting code should be precise and unverbose, and I try to incorporate that when interviewing as well.
 
 Read the 2022 sequel [[here]](../recruiting-2022)
