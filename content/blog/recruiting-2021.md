@@ -6,6 +6,7 @@ draft: false
 
 # Co-op Duels: 2021
 **<i>Last modified on: 2022-08-22</i>**
+
 <p align="center">
   <img style="max-width: 90%; border-radius: 3%;" src="/images/mw-msft-2021.png" />
 </p>

@@ -1,17 +1,20 @@
 ---
 title: "Hackathons"
-date: 2022-01-29
+date: 2022-09-30
 draft: false
 ---
 
 **Hackathons aren't just an obligation for me, they're a lifestyle.** Why do I enjoy them so much? Every hackathon I've attended has been an opportunity to learn, meet smart people at different universities, visit a new city, enjoy great food, and check out the hottest new technologies.
 
-Before the pandemic, I would travel to a hackathon once every other weekend. Here are just a few I have on my wishlist before I graduate college:
+Before the pandemic, I would travel to a hackathon once every other weekend. Here are just a few I have on my wishlist:
 - MHacks (Ann Arbor, MI)
-- HackMIT (Cambridge, MA)
-- VandyHacks (Nashville, TN)
 
-> My next planned hackathon is [DragonHacks](https://dragonhacks.live/) in Philadelphia, PA from April 30th - May 1st, 2022!
+> My next planned hackathon is [VandyHacks](https://vandyhacks.org/) in Nashville, TN from October 21st - October 23rd, 2022!
+
+---
+
+<center><h1>CatHacks VIII (Philadelphia, PA)</h1></center>
+TODO...
 
 ---
 
