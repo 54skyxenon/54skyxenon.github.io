@@ -4,6 +4,8 @@ date: 2022-02-22
 draft: false
 ---
 
+**<i>Last modified on: 2022-11-19</i>**
+
 {{% ch-shortcode caption="The town of Lucerne" file="end.png" %}}
 
 During the Fall 2021 semester, I studied computer science as an exchange student at the University of Zürich and a special student at ETH Zürich in Switzerland. Here's how it went.
@@ -144,6 +146,16 @@ Classes ended right before Christmas, and my exams went from mid-January to mid-
 My last exam for Compilers Design was a month out in February, so I could concentrate solely on that for a couple of weeks. At this point in time, my housing lease had expired, so I rented out an AirBNB for the remainder of my exchange to take this exam. The spring semester at NEU also started, so I did the bare minimum to keep up remotely.
 
 The concept of taking exams after winter break and them bearing such a huge weight was probably the most foreign aspect to me. It was my first time taking courses where my entire grade counted on the final exam and that my winter “break” was more like an intense study session.
+
+# Getting my Transcript
+
+After two months with no updates to my Northeastern degree audit, I learned from the Global Experience Office that I had to manually order a physical transcript from overseas. This by itself took a few weeks to ship.
+
+Following that, this transcript was incorrect as it did not reflect the compilers course took from ETH due to technical issues. I had to provide a second official transcript from UZH for them to verify this. After the registrar took a few months to process this, it was August 2022.
+
+So now, all my courses are there -- except the transcript is still incorrect because ETH isn't listed as a different university. I had to contact ETH as well to order their official transcript, then supply it to and wait on the registrar again for them to make this distinction.
+
+At this point, most of the folks at GEO probably know my name after numerous emails/calls -- but my transcript is finally here 9 months later on **November 2022**.
 
 # Conclusion
 
