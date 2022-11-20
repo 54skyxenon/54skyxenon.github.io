@@ -53,6 +53,11 @@ copyright = ""            # default: author.name
   weight = 5
   identifier = "hackathons"
   url = "/hackathons/"
+[[menu.main]]
+  name = "Bill Splitter"
+  weight = 6
+  identifier = "bill-splitter"
+  url = "https://musical-biscotti-208b13.netlify.app/"
 
 [params]
   version = "4.x"           # Used to give a friendly message when you have an incompatible update
