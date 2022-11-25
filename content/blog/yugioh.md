@@ -18,7 +18,7 @@ TODO
 
 It's an incredibly hard deck to master, and I still am in the process of doing so. The central theme of the deck is utilizing every type of Extra Deck summoning method (Fusion, Xyz, Synchro, Link) to swarm the field with boss monsters. The "Dark Contract" Spells/Traps aid with searching and summoning these monsters, at a non-negligible cost of life points each turn. You should win fast or be prepared to counter this damage! [[Deck Profile]](https://www.db.yugioh-card.com/yugiohdb/member_deck.action?cgid=757d76af0a8057ee1f24c54c90ec3062&dno=1&request_locale=en)
 
-<img src="/images/ddd-profile.png" />
+<img src="https://i.ibb.co/0tP4CWK/ddd-profile.png" />
 
 ## Nurse Burn
 
@@ -26,4 +26,4 @@ It's an incredibly hard deck to master, and I still am in the process of doing s
 
 The idea is simple: "reverse heal" your opponent using traps like Gift Card with Nurse Reficule, inflicting massive damage in one turn with a long chain of activations. This deck is *usually* consistent, but if you don't OTK/FTK by the second turn you're screwed. Going first/second thus has major implications. The best part is that you only need one card in your Extra Deck so this doesn't fall victim to those pesky D.D. Dynamite players! [[Deck Profile]](http://www.db.yugioh-card.com/yugiohdb/member_deck.action?cgid=757d76af0a8057ee1f24c54c90ec3062&dno=3&request_locale=en)
 
-<img src="/images/nurse-burn-profile.png" />
+<img src="https://i.ibb.co/r0LnttH/nurse-burn-profile.png" />

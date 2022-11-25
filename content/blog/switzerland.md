@@ -5,7 +5,7 @@ draft: false
 ---
 
 <!-- https://ibb.co/album/VxDN1G -->
-**<i>Last modified on: 2022-11-19</i>**
+**<i>Last modified on: 2022-11-25</i>**
 
 {{% blog-shortcode caption="The town of Lucerne" file="https://i.ibb.co/y582mWC/end.png" %}}
 
@@ -78,7 +78,7 @@ I took the following four computer science (also called informatics) courses dur
 
 ### Compiler Design (8 ECTS)
 
-{{% blog-shortcode caption="" file="https://i.ibb.co/hLqvVCP/compilers.png" %}}
+{{% blog-shortcode file="https://i.ibb.co/hLqvVCP/compilers.png" %}}
 
 > This course uses compilers as examples to expose students to modern software development techniques.
 
@@ -90,7 +90,7 @@ For tech-savvy readers: the language of choice for assignments was OCaml, a func
 
 ### Computer Networks and Distributed Systems (6 ECTS)
 
-{{% blog-shortcode caption="" file="https://i.ibb.co/JCGd8tp/networks.png" %}}
+{{% blog-shortcode file="https://i.ibb.co/JCGd8tp/networks.png" %}}
 
 > Students will receive the required insights into basic foundations on Communication Networks and Distributed Systems.
 
@@ -100,7 +100,7 @@ A combined lecture and exercise session took place onsite at UZH Oerlikon every 
 
 ### Foundations of Computing II (6 ECTS)
 
-{{% blog-shortcode caption="" file="https://i.ibb.co/m8pFLwn/foc.png" %}}
+{{% blog-shortcode file="https://i.ibb.co/m8pFLwn/foc.png" %}}
 
 > The goal of the course is to familiarize the student with formal methods of computing and their value for computer science and related disciplines, and to provide basic training in applying formal methods to many different kinds of problems.
 
@@ -110,7 +110,7 @@ The course material is conceptually difficult and this course was my next bigges
 
 ### Human-Computer Interaction (6 ECTS)
 
-{{% blog-shortcode caption="" file="https://i.ibb.co/3W7zMgc/hci.png" %}}
+{{% blog-shortcode file="https://i.ibb.co/3W7zMgc/hci.png" %}}
 
 > This course will introduce students to principles and processes for designing successful interactive systems which enable users to effectively complete their tasks while being easy and fun to use.
 

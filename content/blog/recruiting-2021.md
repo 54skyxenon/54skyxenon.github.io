@@ -5,11 +5,9 @@ draft: false
 ---
 
 # Co-op Duels: 2021
-**<i>Last modified on: 2022-08-22</i>**
+**<i>Last modified on: 2022-11-25</i>**
 
-<p align="center">
-  <img style="max-width: 90%; border-radius: 3%;" src="/images/mw-msft-2021.png" />
-</p>
+{{% blog-shortcode file="https://i.ibb.co/SXXJp52/mw-msft-2021.png" %}}
 
 Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester, this is how it went during my sophomore year. Some people opt for one long co-op, some break it up into two (me), and some even three. 
 
@@ -43,6 +41,8 @@ They make MATLAB and Simulink, popular scientific computing apps used in academi
 
 MathWorks had a **strong emphasis on work-life balance**. Many engineers I worked with were offline on Teams by 5 PM and it felt very weird to continue working after that. It's a good environment to raise a family in and employee tenure tended to be high.
 
+{{% blog-shortcode caption="Some merch I received" file="https://i.ibb.co/R3N6zDq/mw-merch.jpg" %}}
+
 Since I was a spring intern, the other interns and I could afford more attention from our mentors and get to know each other better (compared to a massive summer cohort). We had Friday bonding sessions where we'd play online games and teach each other something new about software engineering!
 
 The first project I was assigned was adding font properties to MATLAB App Designer, a tool for building Desktop GUIs in MATLAB! It's analogous to the Swing framework in Java. Since the last time I used MATLAB was in 2018 for a machine learning course I had all but forgotten, my first task was to make a small app to refamiliarize myself with the language. What followed was an intense period of:
@@ -66,6 +66,8 @@ Both of my mentors were happy with my work, and my time in MathWorks ended on a 
 They need no introduction, but I didn't have a great experience. Earlier in November the previous year, the in-person program was cancelled. I lived with my parents back in Los Angeles instead of with other interns at Microsoft's sprawling Redmond headquarters. Unfortunately, not much of [this](https://medium.com/@techie4good/microsoft-has-the-best-internship-of-all-time-633f7c251773).
 
 Microsoft was too **bureaucratic and complex** for my taste. There are four main engineering divisions and too many different teams under each of them for me to comprehend, even amongst my own organization. While Microsoft does have a reputation in tech for good work-life balance, this is not true if you are in an Azure team.
+
+{{% blog-shortcode caption="Live event for Intern Day 2021" file="https://i.ibb.co/h7x8zxV/microsoft-event.jpg" %}}
 
 There were no shortage of intern activities -- at times it could be overwhelming meeting many new people and being exposed to so much talent. There are signature events like [Puzzle Day](https://puzzlehunt.azurewebsites.net/pd2021/play) I did with my friend [Jim](http://jimzwu.com/).
 
