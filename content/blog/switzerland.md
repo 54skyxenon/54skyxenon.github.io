@@ -4,9 +4,10 @@ date: 2022-02-22
 draft: false
 ---
 
+<!-- https://ibb.co/album/VxDN1G -->
 **<i>Last modified on: 2022-11-19</i>**
 
-{{% ch-shortcode caption="The town of Lucerne" file="end.png" %}}
+{{% blog-shortcode caption="The town of Lucerne" file="https://i.ibb.co/y582mWC/end.png" %}}
 
 During the Fall 2021 semester, I studied computer science as an exchange student at the University of Zürich and a special student at ETH Zürich in Switzerland. Here's how it went.
 
@@ -14,7 +15,7 @@ _(Most of this content is readapted from my exchange experience report, thanks g
 
 # Preparing
 
-{{% ch-shortcode caption="Accepted for a exchange!" file="preparation.png" %}}
+{{% blog-shortcode caption="Accepted for a exchange!" file="https://i.ibb.co/NrVvs5S/preparation.png" %}}
 
 I applied to UZH through Northeastern’s Global Experience Office. I was interested in Swiss universities for their strong rankings in computer science and finance. At the time, I wanted to pursue software engineering at a quantitative finance firm — an intricate combination of both fields — so I thought the country would be a great fit. Also, none of my friends had studied in Switzerland before and I love walking paths less travelled.
 
@@ -32,7 +33,7 @@ In the final months from __July to September 2021__, my time was split between f
 
 # Accomodation
 
-{{% ch-shortcode caption="My WOKO dorm" file="accommodation.png" %}}
+{{% blog-shortcode caption="My WOKO dorm" file="https://i.ibb.co/3ms801z/accommodation.png" %}}
 
 I lived in the WOKO Cäsar-Ritz-Strasse student house in Zürich’s Affoltern district, close to the ETH Hönggerberg campus. I lived with two roommates and we shared a kitchen, dining area, and bathroom. Conveniently, there was a Coop store (one of Switzerland’s two major grocery chains) just a two minute walk from my apartment.
 
@@ -44,7 +45,7 @@ Health insurance was mandatory and incredibly difficult to get exempted from. I 
 
 # Culture
 
-{{% ch-shortcode caption="The beautiful town of Lauterbrunnen" file="culture.png" %}}
+{{% blog-shortcode caption="The beautiful town of Lauterbrunnen" file="https://i.ibb.co/nqp3fqw/culture.png" %}}
 
 I learned about Switzerland periodically growing up in the US, so I had an idea of what to expect when visiting the country for the first time. The common stereotypes about Switzerland are neutrality, punctuality, and precision. Banking, chocolate, cheese, and watchmaking are major industries. But there were more subtle differences that surprised me. 
 
@@ -54,7 +55,7 @@ Being in the heart of Europe, Switzerland is incredibly multicultural. German, F
 
 There is a huge emphasis on promoting environmental sustainability -- Zürich's air quality was very clean. Air conditioning is uncommon. Recycling stations were abundant and garbage collection was strictly done through designated "Zuri-Sacks".
 
-{{% ch-shortcode caption="Great dish (zürcher geschnetzeltes) but I went bankrupt" file="food.png" %}}
+{{% blog-shortcode caption="Great dish (zürcher geschnetzeltes) but I went bankrupt" file="https://i.ibb.co/Zd2nCtw/food.png" %}}
 
 The last thing I want to discuss is Switzerland’s reputation of being expensive. Visiting the country as a tourist, this is definitely true. An inexpensive restaurant meal costs around $20-30, and a slightly upscale restaurant easily breaks the $40-60 range. A packet of ramen even cost us $3! A single 1 hour bus ticket can cost $5 in Zürich center and more if you travel across different zones. 
 
@@ -64,20 +65,20 @@ But significant costs like rent and tuition are inexpensive compared to the US. 
 
 # Academics
 
-{{% ch-shortcode caption="Swiss grading scale" file="grades.png" %}}
+{{% blog-shortcode caption="Swiss grading scale" file="https://i.ibb.co/Rpms98t/grades.png" %}}
 
 Shortly after landing in Zürich, I took a two-week supplementary A1 German intensive course from the Sprachenzentrum (language center) that I failed. However, it was still useful in teaching me basic survival phrases and how to read some signs in the city. I continued with Duolingo and the "Coffee Break German" podcast on Spotify from that point on.
 
 The credit system at UZH is the European Credit Transfer and Accumulation (ECTS) System, standardized across many European universities as its name implies. The conversion from NEU’s credit system is roughly (0.5 units = 1 ECTS). The grading scale is from 1.0-6.0 where 4.0 is passing and 6.0 is excellent — exact cutoffs are determined by a curve after exam results are in. The fall semester starts in late September and classes end just before Christmas. A mid-January exam session concludes the semester for UZH and a late-January to mid-February exam session concludes the semester for ETH.
 
-{{% ch-shortcode caption="OLAT - the main LMS used" file="olat.png" %}}
-{{% ch-shortcode caption="Moodle - another LMS used" file="moodle.png" %}}
+{{% blog-shortcode caption="OLAT - the main LMS used" file="https://i.ibb.co/sv7fpcw/olat.png" %}}
+{{% blog-shortcode caption="Moodle - another LMS used" file="https://i.ibb.co/gTD1wns/moodle.png" %}}
 
 I took the following four computer science (also called informatics) courses during my time in Switzerland. All courses successfully transferred over to NEU:
 
 ### Compiler Design (8 ECTS)
 
-{{% ch-shortcode caption="" file="compilers.png" %}}
+{{% blog-shortcode caption="" file="https://i.ibb.co/hLqvVCP/compilers.png" %}}
 
 > This course uses compilers as examples to expose students to modern software development techniques.
 
@@ -89,7 +90,7 @@ For tech-savvy readers: the language of choice for assignments was OCaml, a func
 
 ### Computer Networks and Distributed Systems (6 ECTS)
 
-{{% ch-shortcode caption="" file="networks.png" %}}
+{{% blog-shortcode caption="" file="https://i.ibb.co/JCGd8tp/networks.png" %}}
 
 > Students will receive the required insights into basic foundations on Communication Networks and Distributed Systems.
 
@@ -99,7 +100,7 @@ A combined lecture and exercise session took place onsite at UZH Oerlikon every 
 
 ### Foundations of Computing II (6 ECTS)
 
-{{% ch-shortcode caption="" file="foc.png" %}}
+{{% blog-shortcode caption="" file="https://i.ibb.co/m8pFLwn/foc.png" %}}
 
 > The goal of the course is to familiarize the student with formal methods of computing and their value for computer science and related disciplines, and to provide basic training in applying formal methods to many different kinds of problems.
 
@@ -109,7 +110,7 @@ The course material is conceptually difficult and this course was my next bigges
 
 ### Human-Computer Interaction (6 ECTS)
 
-{{% ch-shortcode caption="" file="hci.png" %}}
+{{% blog-shortcode caption="" file="https://i.ibb.co/3W7zMgc/hci.png" %}}
 
 > This course will introduce students to principles and processes for designing successful interactive systems which enable users to effectively complete their tasks while being easy and fun to use.
 
@@ -119,7 +120,7 @@ There were several milestones optionally due for the project, if our group wante
 
 # Social Life
 
-{{% ch-shortcode caption="Visiting the Lindt chocolate factory with my roommates" file="social.png" %}}
+{{% blog-shortcode caption="Visiting the Lindt chocolate factory with my roommates" file="https://i.ibb.co/L9cZsQ9/social.png" %}}
 
 Pedro and Reece from Chile and Canada were the first two people I met as my roommates. Initially, we would plan weekend outings and help each other understand the workings of Switzerland.
 
@@ -127,13 +128,13 @@ I quickly made friends with European and Chinese masters students who sat with m
 
 The fall was also a great time to start in-person hackathons again, and Switzerland's prime location enabled convenient travel to other European countries. I attended HackZurich in Switzerland, HackPrague in the Czech Republic, and HackCambridge in the United Kingdom (as the latter two were just a short flight away).
 
-{{% ch-shortcode caption="Enjoying some Raclette with my AIESEC friends" file="social-2.png" %}}
+{{% blog-shortcode caption="Enjoying some Raclette with my AIESEC friends" file="https://i.ibb.co/mB1M7Km/social-2.png" %}}
 
 I applied to and joined a student organization called AIESEC, which is an international professional organization for young adults (similar to Greek life in the US). It helps facilitate international exchanges, develop leadership skills, and connect members to internship opportunities. Even though few of the activities had to do with my major, I signed up with the hope that it would help me find a diverse friend group at UZH and ETH. Little did I know that AIESEC would exceed my expectations. Through AIESEC, I attended meetings locally in Zürich and even nationally across Switzerland, so I got to meet people from other cantons. The average AIESEC member studied business or finance, and I thought it was very valuable talking to people who weren’t in my field of study.
 
 # Examinations
 
-{{% ch-shortcode caption="Writing summaries" file="studying.jpeg" %}}
+{{% blog-shortcode caption="Writing summaries" file="https://i.ibb.co/2WNKktq/studying.jpg" %}}
 
 > When in Rome, do as the Romans do
 
@@ -159,7 +160,7 @@ At this point, most of the folks at GEO probably know my name after numerous ema
 
 # Conclusion
 
-{{% ch-shortcode caption="Me at the University of Zurich" file="intro.png" %}}
+{{% blog-shortcode caption="Me at the University of Zurich" file="https://i.ibb.co/brjd9VW/intro.png" %}}
 
 Academics were pretty theoretical. My compilers course involved a lot more lectures on graph theory than NEU’s equivalent course. My Foundations of Computing course taught algorithms such as automata minimization not even included in NEU’s equivalent course. But on the flip side, my networks course lacked programming assignments, which are a main emphasis in how networks is taught at NEU.
 

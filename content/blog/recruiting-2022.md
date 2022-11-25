@@ -85,4 +85,4 @@ Duolingo was the closest thing to those "day in the life" videos of tech workers
 
 **More content coming soon!**
 
-*2023 new grad finale coming eventually!*
+Read the 2023 finale [[here]](../finale-2023)
