@@ -5,7 +5,8 @@ draft: false
 ---
 <!-- https://ibb.co/album/Fgq2gQ -->
 # Co-op Duels: 2022
-**<i>Last modified on: 2022-09-30</i>**
+**<i>Last modified on: 2022-11-25</i>**
+
 Read the 2021 prequel [[here]](../recruiting-2021)
 
 {{% blog-shortcode caption="Recruiting sucked the soul out of me late-September to mid-October" file="https://i.ibb.co/BwBC3dK/snow-duol-fb-2022.png" %}}
