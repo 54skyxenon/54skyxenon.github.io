@@ -71,23 +71,31 @@ Duolingo is a meme for the way it teaches languages, yet it was the best interns
 
 My first day, I realized that the **people were amazing here**. The full-timers and fellow interns I met boasted exceptional accomplishments, yet were humble. They felt genuinely committed to the mission even after a decade. It also helped that most of them were my age so it was easier to befriend coworkers compared to my previous companies.
 
-I interned on the Generated Sessions team, which is responsible for building lessons into the main app. I was an Android developer and this was my first experience working in native mobile development. I began the internship making some minor bug fixes as starter tasks. My main project initially was adding the listen spell challenge, but the feature got scrapped by leadership after a couple of weeks. 
+I interned on the Generated Sessions team, which is responsible for building lessons into the main app. I was an Android developer and this was my first experience working in native mobile development. I began the internship making some minor bug fixes. My main project initially was adding the listen spell challenge, but the feature got scrapped by leadership after a couple of weeks!
 
-We soon pivoted my project to be adding voice input for translation challenges as an alternative to keyboard input. Looking back, I'd say it was for the better. I enjoyed the new project more, had a hilarious time debugging issues, and the feature was shipped to 1+ million users by the time I left!
+We soon pivoted my project to be supporting voice input for translations as an alternative to keyboard input. Looking back, I'd say it was for the better. I enjoyed the new project more, had a hilarious time debugging speech issues, and the feature was shipped to 1+ million users and counting!
 
 {{% blog-shortcode caption="Unfortunately, Android voice recognition still ain't perfect." file="https://i.ibb.co/rMC81Yg/duolingo-blooper.webp" %}}
 
-Beyond the technical skills I gained, it was my best summer socially in a long time. I met up with old friends interning in Pittsburgh for the first time since the pandemic began. Duolingo held its 10th anniversary party on my birthday, so I could actually drink overnight! Don't even mention all the cruises, bike tours, and <a href="https://www.tiktok.com/@xiaomanyc/video/7119913005378325803?is_from_webapp=1&sender_device=pc&web_id=7091898300404631086">that TikTok with xiaomanyc</a> I did.
+Beyond the technical skills I gained, it was my best summer socially in a long time. I met up with old friends interning in Pittsburgh for the first time since the pandemic. Duolingo held its 10th anniversary party on my birthday, so I could actually drink overnight. Don't even mention all the cruises, bike tours, and <a href="https://www.tiktok.com/@xiaomanyc/video/7119913005378325803?is_from_webapp=1&sender_device=pc&web_id=7091898300404631086">that TikTok with xiaomanyc</a> I did.
 
 {{% blog-shortcode caption="Duoversary concert by Carly Rae Jepsen!" file="https://i.ibb.co/dBXy561/duolingo-concert.jpg" %}}
 
-During my time at Duolingo, I realized I liked working on front-facing software that was usable by the common man. I remember that while I was receiving a haircut, my barber gave me feedback about the app as a user himself. This wasn't the case for all three of my previous companies, whose products were aimed towards people with technical backgrounds.
+From Duolingo, I realized I liked working on front-facing software usable by the common man. I remember that while I was receiving a haircut, my barber gave me feedback about the app as a user himself. This wasn't the case for all three of my previous companies, whose products were aimed towards people with technical backgrounds.
 
 {{% blog-shortcode caption="Group photo at end of dinner cruise" file="https://i.ibb.co/HqVC4KN/duolingo-cruise.jpg" %}}
+
+Overall, it was exciting to see Duolingo undergo its inflection point this summer. In just one summer, we grew headcount enough to move to a new office, rebranded Duolingo Plus to Super, opened the Math app to beta testing, and gained more users for Duolingo English Test by meeting with foreign dignitaries and admissions officers.
 
 Duolingo was the closest thing to those "day in the life" videos of tech workers that I got recommended so often on YouTube. It's interesting to see how even though Duolingo and Snowflake are the same age, they ended up on widely divergent paths.
 
 ## Meta/Facebook
+
+Technically speaking, it's my first FAANG. But unfettered growth from last year has its consequences, which I would see unfold over this season.
+
+The fall began somberly with the stock decline, as recruiters announced return offers were being withheld. The handful of us starting realized that we would be the last intern batch in a long time.
+
+I will say that did enjoy how efficient things were at Meta relative to its size. Internal tooling was very impressive, tasks were mentally stimulating, and Meta is a great place to grow as an engineer.
 
 **More content coming soon!**
 
