@@ -65,19 +65,25 @@ On my last day, I remember my mentor and I having a lengthy chat about startup c
 -->
 
 ## Duolingo
-Duolingo is a meme for the way it teaches languages, yet it was the best internship I've had. This was also my first in-person internship, marking the end of the pandemic in many ways for me. 
+Duolingo is a meme for the way it teaches languages, yet it was the best internship I've had. This was also my first in-person internship, marking the end of the pandemic in many ways for me. As soon as my term at Snowflake ended, I flew from Boston to Maine for a quick vacation, then directly to Pittsburgh.
 
 {{% blog-shortcode caption="Duolingo headquarters at night." file="https://i.ibb.co/T1ZT5gF/duolingo-hq.jpg" %}}
 
-As soon as my first day, I realized that the **culture was amazing here**. The full-timers and fellow interns I met boasted exceptional accomplishments, yet were humble. People felt genuinely committed to the mission even after a decade. It also helped that most people were my age so it was easier to befriend coworkers compared to my previous companies.
+My first day, I realized that the **people were amazing here**. The full-timers and fellow interns I met boasted exceptional accomplishments, yet were humble. They felt genuinely committed to the mission even after a decade. It also helped that most of them were my age so it was easier to befriend coworkers compared to my previous companies.
 
-I interned on the Generated Sessions team, which is responsible for building lessons into the main app. I was an Android developer and this was my first experience working in native mobile development. 
+I interned on the Generated Sessions team, which is responsible for building lessons into the main app. I was an Android developer and this was my first experience working in native mobile development. I began the internship making some minor bug fixes as starter tasks. My main project initially was adding the listen spell challenge, but the feature got scrapped by leadership after a couple of weeks. 
 
-I began the internship making some minor bug fixes as starter tasks. My main project initially was adding the listen spell challenge, but the feature got scrapped by leadership after a couple of weeks of me working on the feature with my mentor. We soon pivoted my project to be adding voice input for translation challenges as an alternative to keyboard input. Looking back, I'd say it was for the better as I enjoyed the new project more and the feature was shipped to 1+ million users by the time I left.
+We soon pivoted my project to be adding voice input for translation challenges as an alternative to keyboard input. Looking back, I'd say it was for the better. I enjoyed the new project more, had a hilarious time debugging issues, and the feature was shipped to 1+ million users by the time I left!
 
-Beyond the technical skills I gained, it was my best summer socially in a long time. I met some of my old friends interning in Pittsburgh for the first time since the pandemic began. Duolingo held its 10th anniversary party on my birthday, so I could freely drink overnight. And that doesn't even mention all the cruises and bike tours around Pittsburgh we had.
+{{% blog-shortcode caption="Unfortunately, Android voice recognition still ain't perfect." file="https://i.ibb.co/rMC81Yg/duolingo-blooper.webp" %}}
+
+Beyond the technical skills I gained, it was my best summer socially in a long time. I met up with old friends interning in Pittsburgh for the first time since the pandemic began. Duolingo held its 10th anniversary party on my birthday, so I could actually drink overnight! Don't even mention all the cruises, bike tours, and <a href="https://www.tiktok.com/@xiaomanyc/video/7119913005378325803?is_from_webapp=1&sender_device=pc&web_id=7091898300404631086">that TikTok with xiaomanyc</a> I did.
+
+{{% blog-shortcode caption="Duoversary concert by Carly Rae Jepsen!" file="https://i.ibb.co/dBXy561/duolingo-concert.jpg" %}}
 
 During my time at Duolingo, I realized I liked working on front-facing software that was usable by the common man. I remember that while I was receiving a haircut, my barber gave me feedback about the app as a user himself. This wasn't the case for all three of my previous companies, whose products were aimed towards people with technical backgrounds.
+
+{{% blog-shortcode caption="Group photo at end of dinner cruise" file="https://i.ibb.co/HqVC4KN/duolingo-cruise.jpg" %}}
 
 Duolingo was the closest thing to those "day in the life" videos of tech workers that I got recommended so often on YouTube. It's interesting to see how even though Duolingo and Snowflake are the same age, they ended up on widely divergent paths.
 
