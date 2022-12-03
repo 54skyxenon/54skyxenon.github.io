@@ -4,106 +4,44 @@ date: 2022-11-25
 draft: false
 ---
 
+<!-- https://ibb.co/album/jZgrx2 -->
 **Hackathons aren't just an obligation for me, they're a lifestyle.** Why do I enjoy them so much? Every hackathon I've attended has been an opportunity to learn, meet smart people at different universities, visit a new city, enjoy great food, and check out the hottest new technologies.
 
 Before the pandemic, I would travel to a hackathon once every other weekend. Now that I'm close to graduation, my lifestyle is coming to an end.
 
-> My next planned hackathon is [Hack&Roll](https://hacknroll.nushackers.org/) in Singapore in January 2023!
+Here is my <a href="https://devpost.com/54skyxenon">Devpost</a>.
+
+> My last planned hackathon is [Hack&Roll](https://hacknroll.nushackers.org/) in Singapore in January 2023!
+
+{{% hackathon-shortcode file="https://i.ibb.co/XFjXsDp/vandyhacks.jpg" title="VandyHacks IX (Nashville, TN)" %}}
+
+{{% hackathon-shortcode file="https://i.ibb.co/Pz8hwHd/js-etc.png" title="Jane Street ETC (Seattle, WA)" %}}
+
+{{% hackathon-shortcode file="https://i.ibb.co/Jvrdwfq/dragonhacks.jpg" title="DragonHacks 2022 (Philadelphia, PA)" %}}
+
+{{% hackathon-shortcode file="https://i.ibb.co/s9mJ4HV/cathacks.png" title="CatHacks VIII (Lexington, KY)" %}}
+
+{{% hackathon-shortcode file="https://i.ibb.co/LJht5gP/hackcambridge.png" title="Hack Cambridge Atlas 2022 (Cambridge, United Kingdom)" %}}
+
+{{% hackathon-shortcode file="https://i.ibb.co/sR2s0wF/hackprague.png" title="HackPrague 2021 (Prague, Czech Republic)" %}}
+
+{{% hackathon-shortcode file="https://i.ibb.co/P6YbGRy/hackzurich.png" title="HackZürich 2021 (Zürich, Switzerland)" %}}
 
 ---
-
-<center><h1>VandyHacks IX (Nashville, TN)</h1></center>
-TODO...
-
----
-
-<center><h1>DragonHacks 2022 (Philadelphia, PA)</h1></center>
-TODO...
-
----
-
-<center><h1>CatHacks VIII (Lexington, KY)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/cathacks.png" />
-</p>
-
----
-
-<center><h1>Hack Cambridge Atlas 2022 (Cambridge, United Kingdom)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/hackcambridge.png" />
-</p>
-
----
-
-<center><h1>HackPrague 2021 (Prague, Czech Republic)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/hackprague.png" />
-</p>
-
----
-
-<center><h1>HackZürich 2021 (Zürich, Switzerland)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/hackzurich.png" />
-</p>
-
----
-
 <center><h2>COVID happened, a year of silence...</h2></center>
 
----
+{{% hackathon-shortcode file="https://i.ibb.co/XZN0hsJ/lahacks.png" title="LAHacks 2020 (remote)" %}}
 
-<center><h1>LAHacks 2020 (remote)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/lahacks.jpg" />
-</p>
+{{% hackathon-shortcode file="https://i.ibb.co/Nn42tNL/hacknyu.png" title="HackNYU 2020 (remote)" %}}
 
----
+{{% hackathon-shortcode file="https://i.ibb.co/FBY7vJs/hackbeanpot.png" title="HackBeanpot 2020 (Boston, MA)" %}}
 
-<center><h1>HackNYU 2020 (remote)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/hacknyu.jpg" />
-</p>
+{{% hackathon-shortcode file="https://i.ibb.co/m5v2MYY/hack-brown.jpg" title="Hack@Brown 2020 (Providence, RI)" %}}
 
----
+{{% hackathon-shortcode file="https://i.ibb.co/qMjctYq/bostonhacks.jpg" title="BostonHacks 2019 (Boston, MA)" %}}
 
-<center><h1>HackBeanpot 2020 (Boston, MA)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/hackbeanpot.jpg" />
-</p>
+{{% hackathon-shortcode file="https://i.ibb.co/gdgCmXc/yhack.jpg" title="YHack 2019 (New Haven, CT)" %}}
 
----
+{{% hackathon-shortcode file="https://i.ibb.co/f0bSQTP/hackharvard.jpg" title="HackHarvard 2019 (Cambridge, MA)" %}}
 
-<center><h1>Hack@Brown 2020 (Providence, RI)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/hack@brown.jpg" />
-</p>
-
----
-
-<center><h1>BostonHacks 2019 (Boston, MA)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/bostonhacks.jpg" />
-</p>
-
----
-
-<center><h1>YHack 2019 (New Haven, CT)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/yhack.jpg" />
-</p>
-
----
-
-<center><h1>HackHarvard 2019 (Cambridge, MA)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/hackharvard.jpg" />
-</p>
-
----
-
-<center><h1>HackNY 2019 (New York, NY)</h1></center>
-<p align="center">
-    <img style="max-width: 80%; border-radius: 3%;" src="/images/hackathon/hackny.jpg" />
-</p>
+{{% hackathon-shortcode file="https://i.ibb.co/fdKxgDg/hackny.jpg" title="HackNY 2019 (New York, NY)" %}}

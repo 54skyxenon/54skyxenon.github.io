@@ -5,7 +5,7 @@ draft: false
 ---
 
 <!-- https://ibb.co/album/VxDN1G -->
-**<i>Last modified on: 2022-11-25</i>**
+**<i>Last modified on: 2022-12-03</i>**
 
 {{% blog-shortcode caption="The town of Lucerne" file="https://i.ibb.co/y582mWC/end.png" %}}
 
@@ -130,7 +130,13 @@ The fall was also a great time to start in-person hackathons again, and Switzerl
 
 {{% blog-shortcode caption="Enjoying some Raclette with my AIESEC friends" file="https://i.ibb.co/mB1M7Km/social-2.png" %}}
 
-I applied to and joined a student organization called AIESEC, which is an international professional organization for young adults (similar to Greek life in the US). It helps facilitate international exchanges, develop leadership skills, and connect members to internship opportunities. Even though few of the activities had to do with my major, I signed up with the hope that it would help me find a diverse friend group at UZH and ETH. Little did I know that AIESEC would exceed my expectations. Through AIESEC, I attended meetings locally in Zürich and even nationally across Switzerland, so I got to meet people from other cantons. The average AIESEC member studied business or finance, and I thought it was very valuable talking to people who weren’t in my field of study.
+I applied to and joined a student organization called AIESEC, which is an international professional organization for young adults (basically Greek life in the US). It helps facilitate international exchanges, develop leadership skills, and connect members to internship opportunities. 
+
+Even though few of the activities had to do with my major, I signed up with the hope that it would help me find a diverse friend group at UZH and ETH. Little did I know that AIESEC would exceed my expectations. Through AIESEC, I attended meetings locally in Zürich and even nationally across Switzerland, so I got to meet people from other cantons. The average AIESEC member studied business or finance, and I thought it was very valuable talking to people who weren’t in my field of study.
+
+{{% blog-shortcode caption="Stopping for cow pedestrians" file="https://i.ibb.co/5sNFBQL/cows.jpg" %}}
+
+Some memories from AIESEC include a weekend trip to <a href="https://www.myswitzerland.com/en-us/accommodations/sportcamp-melchtal-1/">Melchtal</a> for a leadership summit, get-togethers with other chapters in Bern, numerous study sessions until late in the UZH student club lounge, and a bit more alcohol than usual (20 year olds can drink in Europe!)
 
 # Examinations
 
