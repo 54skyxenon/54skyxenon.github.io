@@ -16,7 +16,7 @@ I interned as a software engineer at [MathWorks](https://www.mathworks.com/) wor
 ## The Application Process
 > Applied: **320**
 > 
-> Responses: **57**
+> Interviews/OAs: **57**
 > 
 > Withdrawn: **15**
 > 

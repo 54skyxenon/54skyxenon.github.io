@@ -19,7 +19,7 @@ I interned as a software engineer at [Snowflake](https://www.snowflake.com/) in 
 ## The Application Process
 > Applied: **104**
 > 
-> Responses: **44**
+> Interviews/OAs: **43**
 > 
 > Withdrawn: **8**
 > 

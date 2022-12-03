@@ -10,13 +10,13 @@ Read the 2022 prequel [[here]](../recruiting-2022)
 Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester. Eventually though, I need to graduate and start working **full-time** for real. So how does it all end?
 
 ## The Application Process
-> Applied: **??**
+> Applied: **71**
 > 
-> Responses: **??**
+> Interviews/OAs: **28**
 > 
-> Withdrawn: **??**
+> Withdrawn: **2**
 > 
-> Offers: **??**
+> Offers: **4**
 
 TODO...
 
