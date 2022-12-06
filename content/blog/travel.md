@@ -30,27 +30,27 @@ draft: false
 <!-- TODO: Add to https://ibb.co/album/XkFpp5 -->
 <center><h1>International</h1></center>
 <center><h4>(Work in Progress)</h4></center>
-{{% travel-old-shortcode location="Athens, Greece" file="athens.jpg" %}}
-{{% travel-old-shortcode location="Barcelona, Spain" file="barcelona.jpg" %}}
-{{% travel-old-shortcode location="Beijing, China" file="beijing.jpg" %}}
-{{% travel-old-shortcode location="Shenzhen, China" file="" %}}
-{{% travel-old-shortcode location="Budapest, Hungary" file="beijing.jpg" %}}
-{{% travel-old-shortcode location="Cambridge, United Kingdom" file="" %}}
-{{% travel-old-shortcode location="Geneva, Switzerland" file="" %}}
-{{% travel-old-shortcode location="Kotor, Montenegro" file="montenegro.jpg" %}}
-{{% travel-old-shortcode location="Koper, Slovenia" file="slovenia.jpg" %}}
-{{% travel-old-shortcode location="Lugano, Switzerland" file="" %}}
-{{% travel-old-shortcode location="London, United Kingdom" file="london.jpg" %}}
-{{% travel-old-shortcode location="Monaco" file="monaco.jpg" %}}
-{{% travel-old-shortcode location="Munich, Germany" file="" %}}
-{{% travel-old-shortcode location="Osaka, Japan" file="osaka.jpg" %}}
-{{% travel-old-shortcode location="Paris, France" file="paris.jpg" %}}
-{{% travel-old-shortcode location="Plitvice Lakes, Croatia" file="croatia.jpg" %}}
-{{% travel-old-shortcode location="Prague, Czech Republic" file="" %}}
-{{% travel-old-shortcode location="Rome, Italy" file="rome.jpg" %}}
-{{% travel-old-shortcode location="Singapore" file="" %}}
-{{% travel-old-shortcode location="Stockholm, Sweden" file="stockholm.jpg" %}}
-{{% travel-old-shortcode location="Tokyo, Japan" file="tokyo.jpg" %}}
-{{% travel-old-shortcode location="Venice, Italy" file="" %}}
-{{% travel-old-shortcode location="Vienna, Austria" file="vienna.jpg" %}}
-{{% travel-old-shortcode location="Zurich, Switzerland" file="" %}}
+{{% travel-shortcode location="Athens, Greece" file="https://i.ibb.co/r5p1zN2/athens.jpg" %}}
+{{% travel-shortcode location="Barcelona, Spain" file="https://i.ibb.co/d5Kknj3/barcelona.jpg" %}}
+{{% travel-shortcode location="Beijing, China" file="https://i.ibb.co/ZNNfgNQ/beijing.jpg" %}}
+{{% travel-shortcode location="Budapest, Hungary" file="" %}}
+{{% travel-shortcode location="Cambridge, United Kingdom" file="" %}}
+{{% travel-shortcode location="Geneva, Switzerland" file="" %}}
+{{% travel-shortcode location="Kotor, Montenegro" file="https://i.ibb.co/x3CpLFC/montenegro.jpg" %}}
+{{% travel-shortcode location="Koper, Slovenia" file="https://i.ibb.co/LtxN4Xt/slovenia.jpg" %}}
+{{% travel-shortcode location="Lugano, Switzerland" file="" %}}
+{{% travel-shortcode location="London, United Kingdom" file="https://i.ibb.co/K7YDRNR/london.jpg" %}}
+{{% travel-shortcode location="Monaco" file="https://i.ibb.co/XDTMwFY/monaco.jpg" %}}
+{{% travel-shortcode location="Munich, Germany" file="" %}}
+{{% travel-shortcode location="Osaka, Japan" file="https://i.ibb.co/hgHBPmG/osaka.jpg" %}}
+{{% travel-shortcode location="Paris, France" file="https://i.ibb.co/VTZMPTv/paris.jpg" %}}
+{{% travel-shortcode location="Plitvice Lakes, Croatia" file="https://i.ibb.co/r0ZzVb4/croatia.jpg" %}}
+{{% travel-shortcode location="Prague, Czech Republic" file="" %}}
+{{% travel-shortcode location="Rome, Italy" file="https://i.ibb.co/X26RJb2/rome.jpg" %}}
+{{% travel-shortcode location="Shenzhen, China" file="" %}}
+{{% travel-shortcode location="Singapore" file="" %}}
+{{% travel-shortcode location="Stockholm, Sweden" file="https://i.ibb.co/ZS75VYw/stockholm.jpg" %}}
+{{% travel-shortcode location="Tokyo, Japan" file="https://i.ibb.co/N9dM2Ws/tokyo.jpg" %}}
+{{% travel-shortcode location="Venice, Italy" file="" %}}
+{{% travel-shortcode location="Vienna, Austria" file="" %}}
+{{% travel-shortcode location="Zurich, Switzerland" file="" %}}
