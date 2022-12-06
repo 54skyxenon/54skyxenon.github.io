@@ -11,7 +11,7 @@ Before the pandemic, I would travel to a hackathon once every other weekend. Now
 
 Here is my <a href="https://devpost.com/54skyxenon">Devpost</a>.
 
-> My last planned hackathon is [Hack&Roll](https://hacknroll.nushackers.org/) in Singapore in January 2023!
+> My final planned hackathon is [Hack&Roll](https://hacknroll.nushackers.org/) in Singapore in January 2023!
 
 {{% hackathon-shortcode file="https://i.ibb.co/XFjXsDp/vandyhacks.jpg" title="VandyHacks IX (Nashville, TN)" %}}
 
