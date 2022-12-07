@@ -1,12 +1,12 @@
 ---
 title: "About Me"
-date: 2022-11-25
+date: 2022-12-07
 draft: false
 ---
 
-{{% blog-shortcode caption="" file="/images/personal.png" %}}
+{{% blog-shortcode caption="AI generated image of me, December 2022" file="/images/personal.jpg" %}}
 
-Hi, I'm **Brandon**, a senior computer science student at **[Northeastern University](https://www.northeastern.edu/)** living out my dreams. I did lots of software engineering internships at tech giants/unicorns last year and am wrapping up my last semester of college! My first exposure to computers came through downloading a virus on my father's computer, prompting my curiosity... and the rest is history.
+Hi, I'm **Brandon**, a senior computer science student at **[Northeastern University](https://www.northeastern.edu/)** living out my dreams. I did lots of software engineering internships at tech giants/unicorns last year and am grinding through my last semester of college! My first exposure to computers came through downloading a virus on my father's computer, prompting my curiosity... and the rest is history.
 
 ~~In Zürich, you'll probably catch me doing compilers homework in the ETH Polyterrasse or engrossed in an [AIESEC meeting](https://aiesec.org/).~~
 

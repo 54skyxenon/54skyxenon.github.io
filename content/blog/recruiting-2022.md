@@ -37,7 +37,7 @@ The logistics of this application cycle were weird to say the least. I started a
 
 {{% blog-shortcode caption="Recruiting sucked the soul out of me late-September to mid-October" file="https://i.ibb.co/SKNQcS7/recruiting-state.png" %}}
 
-I received my first offer in early October from Duolingo (whose onsite I gave *right* before my flight to Switzerland)! That took care of Summer 2022, but my co-op cycle (Spring 2022) was harder to deal with because ETH Zurich holds exams up until February of the next year. Many companies I received offers from could not accommodate such a start date, and ETH declined my request to take these exams earlier. 
+I received my first offer in early October from Duolingo, whose onsite I gave *right* before my flight to Switzerland! That took care of Summer 2022, but my co-op cycle (Spring 2022) was harder to deal with because ETH Zurich holds exams up until February of the next year. Many companies I received offers from could not accommodate that start date, and ETH declined my request to take these exams earlier. 
 
 My first instinct was to change my co-op cycle to Fall 2022. Around then, I had received an offer from Meta following my hackathon in Prague that was about to expire, which I moved to the fall. Simply too good to pass up. But that still left the awkward gap of Spring 2022 - what was I going to do up until the summer? I signed up for some part-time classes at Northeastern so I could graduate as intended, but I kept interviewing to find a solution.
 
