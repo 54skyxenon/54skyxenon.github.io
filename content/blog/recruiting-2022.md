@@ -11,7 +11,7 @@ Read the 2021 prequel [[here]](../recruiting-2021)
 
 ---
 
-{{% blog-shortcode caption="Recruiting sucked the soul out of me late-September to mid-October" file="https://i.ibb.co/BwBC3dK/snow-duol-fb-2022.png" %}}
+{{% blog-shortcode caption="" file="https://i.ibb.co/BwBC3dK/snow-duol-fb-2022.png" %}}
 </p>
 
 Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester, here's how it went during my junior year.
