@@ -7,6 +7,9 @@ draft: false
 <!-- https://ibb.co/album/m5ryBN -->
 # _See some of the best projects I've done as a student!_
 
+{{% project-shortcode title="Transight" file="https://i.ibb.co/q9rQ9bD/project-10.png" %}}
+(Trans)action In(sight). This webapp helps people itemize their receipts for corporate reimbursements. A 3rd-party optical character recognition (OCR) API scans the uploaded receipt. <a href="http://transight.tech">[Demo]</a>
+
 {{% project-shortcode title="AR Quiz" file="https://i.ibb.co/HCxCDqQ/project-9.png" %}}
 It's an augmented reality scavenger hunt. We made a quiz game in Unity where each question prompts you to find a QR in a specific room, which when scanned, renders a 3d object that answers the question (try this one 😉)! <a href="https://www.youtube.com/watch?v=5PCPTEP7SO0">[Demo]</a>
 
