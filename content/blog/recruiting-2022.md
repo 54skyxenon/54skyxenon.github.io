@@ -5,16 +5,18 @@ draft: false
 ---
 <!-- https://ibb.co/album/Fgq2gQ -->
 # Co-op Duels: 2022
-**<i>Last modified on: 2022-11-25</i>**
+**<i>Last modified on: 2023-01-21</i>**
 
 Read the 2021 prequel [[here]](../recruiting-2021)
+
+---
 
 {{% blog-shortcode caption="Recruiting sucked the soul out of me late-September to mid-October" file="https://i.ibb.co/BwBC3dK/snow-duol-fb-2022.png" %}}
 </p>
 
 Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester, here's how it went during my junior year.
 
-I interned as a software engineer at [Snowflake](https://www.snowflake.com/) in Boston working on diagnostics reporting, followed by [Duolingo](https://www.duolingo.com) in Pittsburgh working on speech recognition, followed by [Meta](https://about.facebook.com/meta/) in NYC working on augmented reality headsets.
+I interned as a software engineer at [Snowflake](https://www.snowflake.com/) in Boston working on diagnostics reporting, followed by [Duolingo](https://www.duolingo.com) in Pittsburgh working on speech recognition, followed by [Meta](https://about.facebook.com/meta/) in NYC working on AR/VR headsets.
 
 ## The Application Process
 > Applied: **104**
@@ -25,9 +27,9 @@ I interned as a software engineer at [Snowflake](https://www.snowflake.com/) in 
 > 
 > Offers: **7**
 
-Was it really that time of the year again? Thankfully, I heard back from a lot more companies this cycle with Microsoft and ETH Zurich on my resume. Being a junior also *formally* qualified me for a lot more summer internship positions. This year, I wanted to gain experience working for smaller and more fast-paced companies, so naturally I would interview with several unicorns and trading firms.
+Was it really that time of the year again? Thankfully, I heard back from a lot more companies this cycle with Microsoft and ETH Zurich on my resume. Being a junior also *formally* qualified me for a lot more summer internship positions. This year, I wanted to gain experience at smaller and more fast-paced companies, so naturally I would interview with several unicorns and trading firms.
 
-These smaller yet desirable set of companies could afford to be picky with their candidates. There was a noticeable increase in difficulty, variety, length, and thoroughness in the questions I was asked compared to normal FAANG-type LeetCode interviews. Now that I had experience, I was also expected to articulate on my past internships. At the same time, I thought these interviews were more enjoyable as they were more interactive.
+These companies could afford to be picky with their candidates. There was a noticeable increase in difficulty, variety, length, and thoroughness in the questions I was asked compared to normal FAANG-type LeetCode interviews. Now that I had experience, I was also expected to articulate on my past internships. At the same time, I thought these interviews were more enjoyable as they were more interactive.
 
 For example, Stripe asked me to add a new codebase feature involving HTTP REST calls and JSON parsing as a part of their onsite. Citadel asked me some gnarly probability and object-oriented design brainteasers. Duolingo asked a data structures + algorithms design question with a relentless barrage of followups.
 
@@ -56,7 +58,7 @@ I interned on the Service Infrastructure team. My project was to improve how we 
 
 By the end of the internship, I added functionality to support different modes of collecting data, enabled publication of data from an entire cluster of compute instances at once, and concocted a SQL query to execute collection/publication procedures as a daemon. I wrote multithreaded code for the first time, put OOP design patterns to practice, and pushed my first bug to production that crashed existing collection processes (the classic intern mistake!) It was a lot of responsibility!
 
-On my last day, I remember my mentor and I having a lengthy chat about startup culture, which basically reaffirmed my preference for smaller companies. I appreciate the skills I've gained, but I still felt something was still missing...
+On my last day, my mentor and I had a lengthy chat about startup culture, which basically reaffirmed my preference for smaller companies. I appreciate the skills I've gained, but I still felt something was still missing...
 
 <!--
 1. specify different collection profile for an instance
@@ -65,7 +67,7 @@ On my last day, I remember my mentor and I having a lengthy chat about startup c
 -->
 
 ## Duolingo
-Duolingo is a meme for the way it teaches languages, yet it was the best internship I've had. This was also my first in-person internship, marking the end of the pandemic in many ways for me. As soon as my term at Snowflake ended, I flew from Boston to Maine for a quick vacation, then directly to Pittsburgh.
+Duolingo is a meme for the way it teaches languages, yet it was the best internship I've had. This was also my first in-person internship, marking the end of the pandemic in many ways for me. As soon as my term at Snowflake ended, I took an Amtrak from Boston to Maine for a quick vacation, then flew directly to Pittsburgh.
 
 {{% blog-shortcode caption="Duolingo headquarters at night." file="https://i.ibb.co/T1ZT5gF/duolingo-hq.jpg" %}}
 
@@ -81,7 +83,7 @@ Beyond the technical skills I gained, it was my best summer socially in a long t
 
 {{% blog-shortcode caption="Duoversary concert by Carly Rae Jepsen!" file="https://i.ibb.co/dBXy561/duolingo-concert.jpg" %}}
 
-From Duolingo, I realized I liked working on front-facing software usable by the common man. I remember that while I was receiving a haircut, my barber gave me feedback about the app as a user himself. This wasn't the case for all three of my previous companies, whose products were aimed towards people with technical backgrounds.
+From Duolingo, I realized I liked working on front-facing software usable by the common man. While I was receiving a haircut, my barber gave me feedback about the app as a user himself. This wasn't the case for all three of my previous companies, whose products were aimed towards people with technical backgrounds.
 
 {{% blog-shortcode caption="Group photo at end of dinner cruise" file="https://i.ibb.co/HqVC4KN/duolingo-cruise.jpg" %}}
 
@@ -93,10 +95,28 @@ Duolingo was the closest thing to those "day in the life" videos of tech workers
 
 Technically speaking, it's my first FAANG. But unfettered growth from last year has its consequences, which I would see unfold over this season.
 
-The fall began somberly with the stock decline, as recruiters announced return offers were being withheld. The handful of us starting realized that we would be the last intern batch in a long time.
+The fall began somberly with the stock decline, as recruiters announced return offers were being postponed. The handful of us starting realized that we were witnessing the end of an era.
 
-I will say that did enjoy how efficient things were at Meta relative to its size. Internal tooling was very impressive, tasks were mentally stimulating, and Meta is a great place to grow as an engineer.
+{{% blog-shortcode caption="Rooftop view of the Meta Farley office." file="https://i.ibb.co/kqp7w9f/meta-office.jpg" %}}
 
-**More content coming soon!**
+Meta operated efficiently relative to its size -- **the "move fast" culture is still alive**, internal tooling was impressive, and Meta is a great place to grow as an engineer. The perks and benefits where extravagant, since I was put into a 1B1B in Chelsea (friends/family took huge advantage of this!) and the free food was quite good.
+
+{{% blog-shortcode caption="Work-provided Meta Quest 2. Got motion sickness testing a few games!" file="https://i.ibb.co/r7HVmVW/meta-quest.jpg" %}}
+
+Inspired by Sword Art Online, I interned on the Orion platform team. This team contributes to a low-level software framework powering the ~~Nervegear~~ Oculus headsets. Apart from the React starter apps I made during onboarding, most of my work was done in C++20. Since the team I worked on was quite nascent, it could be challenging finding support for my projects. For one project, I was tasked with migrating a ZIP file API from using buffers to using streams, and I remember debugging LibZip being particularly painful.
+
+I learned a lot about modern C++ and concurrency during my time here. I would have never seen move constructors, coroutines, and custom threading libraries mentioned in Northeastern's computer systems course!
+
+{{% blog-shortcode caption="Some Nigerian food in Midtown East with Ethan, Howard, and Victor." file="https://i.ibb.co/P5YkNvt/meta-social.jpg" %}}
+
+As usual with hopping from city to city each semester, I formed a new friend group as well. In New York, it mainly consisted of interns at Meta and other big tech companies with off-season internships. The MTA made it easy to visit all of the "main" attractions, but in practice we just wasted a crap-ton of money eating out at Italian restaurants.
+
+The [massive layoffs](https://about.fb.com/news/2022/11/mark-zuckerberg-layoff-message-to-employees/) in November dashed any remaining hopes of return offers. Not even Greatly Exceeds Expectations (GE) interns were getting them. In the days before, I inadvertently eavesdropped on anxious gossip from employees in the elevators and in the cafeterias. The day of layoffs, we were instructed to work from home as the offices closed - although I'm certain no one was.
+
+Meta remains my second favorite company after Duolingo, and a Meets All Expectations (ME) rating concluded my spree of internships.
+
+---
+
+After another year of working in industry, my greatest takeaways were in learning how to prioritize and communicate. Not every meeting needs to be attended, and the ability to explain your blockers in simple words is important for other engineers to be willing to help you.
 
 Read the 2023 finale [[here]](../finale-2023)

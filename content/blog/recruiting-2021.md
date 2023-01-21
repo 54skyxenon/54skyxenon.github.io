@@ -81,6 +81,6 @@ I didn't start fully coding until the last 4 weeks or so, but I did move fast wh
 
 ---
 
-My biggest takeaway from working in industry for the first time is that coding never takes long if you carefully plan out your thoughts. The resulting code should be precise and unverbose, and I try to incorporate that when interviewing as well.
+My biggest takeaway from working in industry for the first time is that coding never takes long if you carefully plan out your thoughts. The resulting code should be concise, and I abide by this philosophy in coding interviews as well.
 
 Read the 2022 sequel [[here]](../recruiting-2022)
