@@ -7,7 +7,7 @@ draft: false
 <!-- https://ibb.co/album/jZgrx2 -->
 **Hackathons aren't an obligation, they're a lifestyle.** Every in-person hackathon I've attended has been an opportunity to learn, meet smart people at different universities, visit a new city, enjoy great food, and check out the hottest new technologies.
 
-Before the pandemic, I would travel to a hackathon once every other weekend. Now that I'm close to graduation, my lifestyle is coming to an end. 
+Before the pandemic, I would travel to a hackathon once every other weekend. Now that I'm closer to graduation, my lifestyle is coming to an end. 
 
 Here is my <a href="https://devpost.com/54skyxenon">Devpost</a>.
 
