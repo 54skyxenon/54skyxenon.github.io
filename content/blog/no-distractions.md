@@ -6,9 +6,11 @@ draft: false
 
 # Spotify No Longer Keeps Me Up
 
-I always stay up way too late (even after getting work done) usually because I'm hooked on Spotify.
+I always stay up way too late (even after getting work done) because I'm hooked on Spotify.
 
 So I wrote a script and cron job to close Spotify automatically and scold me every night at 1:30 AM, 2:30 AM, and 3:30 AM!
+
+## Python
 
 This is my computer systems knowledge coming to play! `killall` will send the SIGTERM signal to all Spotify processes running at the time, giving Spotify time to clean up so that essential operations can finish before shutting down. 
 
@@ -45,7 +47,11 @@ root.geometry(f"{width}x{height}+{x}+{y}")
 root.mainloop()
 ```
 
+## Cron
+
 And here's the crontab info (edit with `crontab -e`):
+
+The first two numbers are straightforward, and the last three asterisks `*` imply the task is run every day, every month, every year.
 ```bash
 30 1 * * * /usr/local/bin/python3 ~/stop-spotify.py
 30 2 * * * /usr/local/bin/python3 ~/stop-spotify.py
