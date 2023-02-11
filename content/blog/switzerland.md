@@ -148,7 +148,7 @@ These were some of the *hardest* exams I've taken in my life. Amongst my peers, 
 
 Getting an "A" in a Swiss university (>= 5.5 out of 6) was *much* harder than at a typical US university. Exams were graded on a strict curve and it's nearly impossible to get everything right. In fact, passing with a "C" (>= 4.0) on the first try/not needing to retake is already solid (many students I met told me about a course they failed before!) How Northeastern interpreted my transcript was less than ideal.
 
-Classes ended right before Christmas, and my exams went from mid-January to mid-February. I got a little bit of traveling across Europe during the holidays, before I sacrified the rest of my break preparing for my first three exams. A few days before I returned from vacation, my roommate caught COVID-19 so I lived like a hermit who just studied every waking hour of the day. 
+Classes ended right before Christmas, and my exams went from mid-January to mid-February. I got a little bit of traveling across Europe during the holidays, before I sacrified the rest of my break preparing for my first three exams. Upon returning from vacation, my roommate caught COVID so I quarantined and spent most of my day studying in an AirBNB.
 
 My last exam for Compilers Design was a month out in February, so I could concentrate solely on that for a couple of weeks. At this point in time, my housing lease had expired, so I rented out an AirBNB for the remainder of my exchange to take this exam. The spring semester at NEU also started, so I did the bare minimum to keep up remotely.
 
