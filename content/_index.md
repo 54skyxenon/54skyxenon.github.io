@@ -16,5 +16,6 @@ College was a bit weird and my location changed roughly every semester:
 * #### ✨ In Pittsburgh, I was hoarding sparkling water from the fridge at <u>[Duolingo](https://duolingo.com)</u> or reading a book in a random CMU building.
 * #### 🗽 In NYC, I was walking through Penn Station for my morning commute or auditing an evening class at NYU with my friend <u>[Jerry](https://www.jerrykjia.com)</u>.
 * #### 🇸🇬 In Singapore, I was struggling to understand proofs in Real Analysis or grabbing a smoothie from the 300+ food stalls at NTU.
+<!-- * #### 🌉 In SF, TODO -->
 
 Outside of work, I'm probably losing the Inn Challenges in [**DragonFable**](https://dragonfable.com), saving my Duolingo streak, watching SAO, or traveling.

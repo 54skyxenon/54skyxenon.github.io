@@ -1,6 +1,6 @@
 ---
 title: Semester Abroad in Singapore
-date: 2022-01-03
+date: 2023-06-06
 draft: true
 ---
 
