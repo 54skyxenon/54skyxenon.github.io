@@ -9,7 +9,13 @@ Read the 2022 prequel [[here]](../recruiting-2022)
 
 ---
 
-Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester. But I need to graduate and start working **full-time** eventually - so how does it all end?
+Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester. But I need to graduate and start working **full-time** eventually. How does it all end?
+
+{{% blog-shortcode caption="2023: running from the ax!" file="https://images.squarespace-cdn.com/content/v1/57d9e959d482e972e8434364/1589381395948-346DOHXWB1OHSWB9PGZP/shutterstock_125513645.jpg" %}}
+
+After months of being tested on algorithms, API design, behavioral fit, C++, debugging, distributed systems, full-stack web development, Linux, logic puzzles, network protocols, operating systems, probability, Python, SQL queries, and system design - it works out.
+
+(Hey, at least I never got asked to write Assembly!)
 
 ## The Application Process
 > Applied: **74**
@@ -20,9 +26,9 @@ Northeastern has a co-op program where upperclassmen spend 4-8 months working fu
 > 
 > Offers: **4**
 
-I've been playing a turn-based RPG called DragonFable for 15+ years now. In DragonFable, you can opt to play in <a href="https://www.dragonfable.com/gamedesignnotes/broken-circuit-p2-8397">Adventure Mode or Doomed Mode</a>. In Adventure Mode, all enemies halve their damage. In Doomed Mode, the enemy damage and health both increase. If last year was like doing normal quests in Adventure Mode, then this year was like doing the Inn Challenges in Doomed Mode.
+I've been playing a turn-based RPG called DragonFable for 15+ years now. In DragonFable, you can opt to play in <a href="https://www.dragonfable.com/gamedesignnotes/broken-circuit-p2-8397">Adventure Mode or Doomed Mode</a>, which are easier and harder settings respectively. If last year was like doing normal quests in Adventure Mode, then this year was like doing the Inn Challenges in Doomed Mode.
 
-{{% blog-shortcode caption="Trying out Doomed Mode in DF" file="https://i.ibb.co/6bvW8vH/doomed-mode.png" %}}
+{{% blog-shortcode caption="Doomed Mode in DF = higher enemy damage and HP" file="https://i.ibb.co/Yc17WgB/doomed-mode.png" %}}
 
 New grad interviews typically surpass the complexity of internship interviews, with an increased number of rounds and a more diverse array of questions. **Coupled with the recession this year, they became insane.**
 
@@ -34,9 +40,9 @@ The beginning of every past cycle has always sucked, and this year was no except
 
 {{% blog-shortcode caption="I worried that my skills had regressed after this" file="https://i.ibb.co/9bWZZ6m/first-week.png" %}}
 
-Companies like Pinterest ran out of headcount so fast that I couldn't get an offer even though I did well on the onsite.
+In some cases, I could have just gotten rejected because headcount ran out before I could finish interviewing. This happened at Pinterest, where I both aced the questions and built rapport with my interviewers.
 
-Past this, it was also tough balancing interviews with my internship at Meta as I had to take days off and WFH as much as possible.
+Past this, it was also tough balancing interviews with my internship at Meta as I had to take days off and work remotely excessively.
 
 ### The Remaining FAANGs
 
@@ -54,11 +60,11 @@ As for Google, I was ghosted yet again even with a referral from my good friend 
 
 Some trading firms have a policy where if you fail their interviews in previous years, you're blacklisted for a period of time. This got me immediately rejected at a few well-known places after reapplying.
 
-One firm, Old Mission Capital, stands out in particular because it was my first and only physically "onsite" onsite interview. I enjoyed my all expenses paid trip to Chicago for a day, getting **$$$** meals by Millennium Park reimbursed.
+One firm, Old Mission Capital, stands out in particular because it was my first and only physically "onsite" onsite interview. I enjoyed my all expenses paid trip to Chicago for a day, staying in a 4-star hotel and getting **$$$** meals by Millennium Park reimbursed.
 
-{{% blog-shortcode caption="Old Mission HQ in Chicago" file="https://i.ibb.co/XxV76Xz/omc-office.png" %}}
+{{% blog-shortcode caption="Chicago Trip #2, but free" file="https://i.ibb.co/1m9cg10/chicago-hotel.png" %}}
 
-The most formidable contender was Headlands Technologies, reputed to put candidates through a grueling loop of 10+ interviews 😱. I faltered after about six rounds of intense C++ questions, but at least got an Uber Eats voucher for making it to the onsite.
+The most formidable contender was Headlands Technologies, reputed to put candidates through a grueling loop of 10+ interviews. I faltered after about six rounds of intense C++ questions, but at least got an Uber Eats voucher for making it to the onsite.
 
 Like last year, I struggled a lot with trading firms since I needed to understand lower-level concepts better. I took initiative and did this later by reading about [operating systems](https://pages.cs.wisc.edu/~remzi/OSTEP/) and [networks](http://gaia.cs.umass.edu/kurose_ross/index.php).
 
@@ -66,23 +72,22 @@ Like last year, I struggled a lot with trading firms since I needed to understan
 
 During late September, I cold-emailed the new grad recruiter at Scale AI with my resume, earning an online assessment.
 
-One technical and recruiter phone screening later, I was invited to the onsite. During this time, [Grokking the System Design](https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers) (and obviously LeetCode) were my goto resources.
+One technical and recruiter phone screening later, I happily scheduled a two-day onsite.
 
-After a two-day scrutinization of my debugging, system design, coding, and personality fit, I received my first external offer by a thin margin - happily situated in NYC too! I accepted on the day my Duolingo deadline expired.
+After what was about seven rounds of interviews, I received my first external offer by a thin margin - happily situated in NYC too!  It's always amusing how receiving offers work, since right after Scale I received two more from Atlassian and TikTok.
 
-It's always amusing how receiving offers work, since right after Scale I received two more from Atlassian and TikTok.
-
+I accepted Scale on the day my Duolingo deadline expired.
 ### Hiccups
 
-All offerees were flown to Welcome Day in the SF office and it was a joyous time. I won't forget how Alexandr Wang himself did a [spicy](https://heatonist.com/) Q&A challenge with us.
+All offerees were flown to Welcome Day in the SF office and it was a joyous time. That day, Alexandr Wang himself gave a [spicy](https://heatonist.com/) Q&A for us (with a LOT of almond milk next to him).
 
 {{% blog-shortcode file="https://i.ibb.co/L1cRFJ8/scale-bar-meetup.jpg" caption="Had a drink at a nearby bar in SF!" %}}
 
-However, almost instantaneously, Scale had to [rescind a new grad's offer](https://old.reddit.com/r/csMajors/comments/ywge5z/scale_ai_rescinded_ng_offer/) due to overhiring.
+However, almost instantaneously, Scale [rescinded a new grad's offer](https://old.reddit.com/r/csMajors/comments/ywge5z/scale_ai_rescinded_ng_offer/) due to overhiring.
 
-As the economic climate worsened, Scale resorted to a round of layoffs in January. Following that, all NYC new grads were forced to relocate to SF. 
+As the economic climate worsened, Scale resorted to a round of layoffs in January. Following that, the incoming NYC new grads were forced to relocate to SF in March. 
 
-I had no choice but to comply. I made last-ditch efforts to interview with NYC-based firms like Hudson River Trading and Ramp when I was in Singapore my spring semester with no luck.
+I had no better options but to comply. Last-ditch efforts to interview with NYC-based Hudson River Trading and Ramp failed when I was studying abroad in Singapore.
 
 Despite this setback, my interview experience at Scale made me feel it was the right fit on my end as well, and that feeling was what I needed to end my new grad hunt.
 
@@ -90,4 +95,4 @@ Despite this setback, my interview experience at Scale made me feel it was the r
 
 {{% blog-shortcode file="https://assets.website-files.com/5f6bc60e665f54db361e52a9/5f6bc60e665f5471cf1e5404_logo_scale.png" caption="The end for now - until further notice, find me in the SoMa district of SF!"  %}}
 
-My biggest takeaways this year were in figuring out what I was and wasn't a fit for. Even if I demonstrated sound technical ability, **some companies didn't feel like my interests were right for them without me even realizing it at the time.**
+My biggest takeaways this year were in figuring out what I was and wasn't a fit for. Even if I demonstrated adequate technical ability, **some companies didn't feel like my interests were right for them without me even realizing it then.**
