@@ -5,7 +5,7 @@ draft: false
 ---
 
 <!-- https://ibb.co/album/VxDN1G -->
-**<i>Last modified on: 2022-12-03</i>**
+**<i>Last modified on: 2023-06-20</i>**
 
 {{% blog-shortcode caption="The town of Lucerne" file="https://i.ibb.co/y582mWC/end.png" %}}
 
@@ -122,9 +122,9 @@ There were several milestones optionally due for the project, if our group wante
 
 {{% blog-shortcode caption="Visiting the Lindt chocolate factory with my roommates" file="https://i.ibb.co/L9cZsQ9/social.png" %}}
 
-Pedro and Reece from Chile and Canada were the first two people I met as my roommates. Initially, we would plan weekend outings and help each other understand the workings of Switzerland.
+Pedro from Chile and Reece from Canada were the first two people I met, becoming my roommates. Initially, we would plan weekend outings and helped each other to understand the workings of Switzerland.
 
-I quickly made friends with European and Chinese masters students who sat with me in my German course. Given that most of us were adjusting to our new city and schools, we would go on tours of Zürich after class ended.
+I quickly made friends with European and Chinese masters students who sat with me in my German course. Given that most of us were adjusting to our new city and schools, we often went on tours of Zürich after class ended.
 
 The fall was also a great time to start in-person hackathons again, and Switzerland's prime location enabled convenient travel to other European countries. I attended HackZurich in Switzerland, HackPrague in the Czech Republic, and HackCambridge in the United Kingdom (as the latter two were just a short flight away).
 
@@ -132,11 +132,11 @@ The fall was also a great time to start in-person hackathons again, and Switzerl
 
 I applied to and joined a student organization called AIESEC, which is an international professional organization for young adults (basically Greek life in the US). It helps facilitate international exchanges, develop leadership skills, and connect members to internship opportunities. 
 
-Even though few of the activities had to do with my major, I signed up with the hope that it would help me find a diverse friend group at UZH and ETH. Little did I know that AIESEC would exceed my expectations. Through AIESEC, I attended meetings locally in Zürich and even nationally across Switzerland, so I got to meet people from other cantons. The average AIESEC member studied business or finance, and I thought it was very valuable talking to people who weren’t in my field of study.
+Even though few of the activities had to do with my major, I signed up with the hope that it would help me find a diverse friend group at UZH and ETH. Little did I know, AIESEC would far exceed my expectations. Through AIESEC, I attended meetings locally in Zürich and even nationally across Switzerland, so I got to meet people from other cantons. The average AIESEC member studied business or finance, and I thought it was very valuable talking to people who weren’t in my field of study.
 
 {{% blog-shortcode caption="Stopping for cow pedestrians" file="https://i.ibb.co/5sNFBQL/cows.jpg" %}}
 
-Some memories from AIESEC include a weekend trip to <a href="https://www.myswitzerland.com/en-us/accommodations/sportcamp-melchtal-1/">Melchtal</a> for a leadership summit, get-togethers with other chapters in Bern, numerous study sessions until late in the UZH student club lounge, and a bit more alcohol than usual (20 year olds can drink in Europe!)
+Some memories from AIESEC include a weekend trip to <a href="https://www.myswitzerland.com/en-us/accommodations/sportcamp-melchtal-1/">Melchtal</a> for a leadership summit, get-togethers with other chapters in Bern, numerous late-night study sessions in the UZH student club lounge, and slightly more alcohol than I was used to (20 year olds can legally drink in Europe!).
 
 # Examinations
 
@@ -148,15 +148,15 @@ These were some of the *hardest* exams I've taken in my life. Amongst my peers, 
 
 Getting an "A" in a Swiss university (>= 5.5 out of 6) was *much* harder than at a typical US university. Exams were graded on a strict curve and it's nearly impossible to get everything right. In fact, passing with a "C" (>= 4.0) on the first try/not needing to retake is already solid (many students I met told me about a course they failed before!) How Northeastern interpreted my transcript was less than ideal.
 
-Classes ended right before Christmas, and my exams went from mid-January to mid-February. I got a little bit of traveling across Europe during the holidays, before I sacrified the rest of my break preparing for my first three exams. Upon returning from vacation, my roommate caught COVID so I quarantined and spent most of my day studying in an AirBNB.
+Classes ended right before Christmas, and my exams went from mid-January to mid-February. I managed to travel a bit across Europe during the holidays before sacrificing the rest of my break to prepare for my first three exams. Upon returning from vacation, my roommate caught COVID so I quarantined and spent most of my day studying in an AirBNB.
 
-My last exam for Compilers Design was a month out in February, so I could concentrate solely on that for a couple of weeks. At this point in time, my housing lease had expired, so I rented out an AirBNB for the remainder of my exchange to take this exam. The spring semester at NEU also started, so I did the bare minimum to keep up remotely.
+My last exam for Compilers Design was a month out in February, so I could concentrate solely on that for a couple of weeks. At this point, my housing lease had expired, so I rented an AirBNB for the remainder of my exchange to take this exam. The spring semester at NEU also started, so I did the bare minimum to keep up remotely.
 
-The concept of taking exams after winter break and them bearing such a huge weight was probably the most foreign aspect to me. It was my first time taking courses where my entire grade counted on the final exam and that my winter “break” was more like an intense study session.
+The concept of taking high-stakes exams after winter break was probably the most foreign aspect of my experience. It was my first time taking courses where my entire grade counted on the final exam and that my winter “break” was more like an intense study session.
 
 # Getting my Transcript
 
-After two months with no updates to my Northeastern degree audit, I learned from the Global Experience Office that I had to manually order a physical transcript from overseas. This by itself took a few weeks to ship.
+After two months without any updates to my Northeastern degree audit, I discovered through the Global Experience Office that I had to manually order a physical transcript from overseas, a process that took a few weeks.
 
 Following that, this transcript was incorrect as it did not reflect the compilers course took from ETH due to technical issues. I had to provide a second official transcript from UZH for them to verify this. After the registrar took a few months to process this, it was August 2022.
 
@@ -170,8 +170,8 @@ At this point, most of the folks at GEO probably know my name after numerous ema
 
 Academics were pretty theoretical. My compilers course involved a lot more lectures on graph theory than NEU’s equivalent course. My Foundations of Computing course taught algorithms such as automata minimization not even included in NEU’s equivalent course. But on the flip side, my networks course lacked programming assignments, which are a main emphasis in how networks is taught at NEU.
 
-There is a lot less hand-holding when it comes to studies. Except in some lower division courses, there was no notion of “office hours” like in the US. To get help, you needed to take advantage of weekly exercise sessions and wait for a response on forums, sometimes to no avail. Good self-studying habits are a necessity. And indeed, the graduation rate at UZH/ETH is a great deal lower than at NEU according to Google. In Switzerland, university is only meant for certain types of people and it's not expected for one to participate over an [apprenticeship](https://asiasociety.org/global-cities-education-network/apprenticeship-model-switzerland) if the latter is more appropriate for a given career. 
+There is considerably less hand-holding in studies. Except in some lower division courses, there was no notion of “office hours” like in the US. To get help, you needed to take advantage of weekly exercise sessions and wait for a response on forums, sometimes to no avail. Good self-studying habits are a necessity. And indeed, the graduation rate at UZH/ETH is a great deal lower than at NEU according to Google. In Switzerland, university is only meant for certain types of people and it's not expected for one to participate over an [apprenticeship](https://asiasociety.org/global-cities-education-network/apprenticeship-model-switzerland) if the latter is more appropriate for a given career. 
 
-Getting settled in and dealing with culture shock was not bad. My quality of life was great and my surroundings peaceful. My social life was fantastic and it even made me question the common view that the Swiss were reserved — I believe if you put in the effort, people here will open up about themselves to you. 
+Getting settled in and dealing with culture shock was manageable. My quality of life was great and my surroundings peaceful. My social life was fantastic and even led me to question the common notion of Swiss reserve — I found that if you put in the effort, people here will open up to you.
 
-My time in Zürich was a fantastic way to start fresh in a post-pandemic world!
+My time in Zürich, refreshing and enriching, was the perfect way to start anew in a post-pandemic world!
