@@ -6,7 +6,7 @@ draft: false
 
 <!-- {{% blog-shortcode caption="AI generated image of me, December 2022" file="/images/personal.jpg" %}} -->
 
-Hi -- I'm **Brandon**. I recently graduated from **[Northeastern](https://www.northeastern.edu/)** and started working full-time in the Bay Area. I've done a bit of software engineering internships in school and I love learning about computer science. My first exposure to the subject came through downloading a virus on my father's computer, prompting my curiosity... and the rest is history.
+Hi -- I'm **Brandon**. I recently graduated from **[Northeastern](https://www.northeastern.edu/)** this summer. I've done a bit of software engineering internships in school and I love learning about computer science. My first exposure to the subject came through downloading a virus on my father's computer, prompting my curiosity... and the rest is history.
 
 College was a bit weird and my location changed roughly every semester:
 
