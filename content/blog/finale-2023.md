@@ -1,7 +1,7 @@
 ---
 title: "New Grad Finale: 2023"
 date: 2023-06-06
-draft: true
+draft: false
 ---
 
 # New Grad Finale: 2023
@@ -13,7 +13,7 @@ Northeastern has a co-op program where upperclassmen spend 4-8 months working fu
 
 {{% blog-shortcode caption="2023: running from the ax!" file="https://images.squarespace-cdn.com/content/v1/57d9e959d482e972e8434364/1589381395948-346DOHXWB1OHSWB9PGZP/shutterstock_125513645.jpg" %}}
 
-After months of being tested on algorithms, API design, behavioral fit, C++, debugging, distributed systems, full-stack web development, Linux, logic puzzles, network protocols, operating systems, probability, Python, SQL queries, and system design - it works out.
+After months of being tested on algorithms, API design, culture fit, C++, debugging, distributed systems, full-stack web development, Linux, logic puzzles, network protocols, operating systems, probability, Python, SQL queries, and system design - it works out.
 
 (Hey, at least I never got asked to write Assembly!)
 
@@ -93,6 +93,6 @@ Despite this setback, my interview experience at Scale made me feel it was the r
 
 ---
 
-{{% blog-shortcode file="https://assets.website-files.com/5f6bc60e665f54db361e52a9/5f6bc60e665f5471cf1e5404_logo_scale.png" caption="The end for now - until further notice, find me in the SoMa district of SF!"  %}}
+{{% blog-shortcode file="https://assets.website-files.com/5f6bc60e665f54db361e52a9/5f6bc60e665f5471cf1e5404_logo_scale.png" caption="Until further notice, find me in SF!"  %}}
 
 My biggest takeaways this year were in figuring out what I was and wasn't a fit for. Even if I demonstrated adequate technical ability, **some companies didn't feel like my interests were right for them without me even realizing it then.**
