@@ -87,7 +87,9 @@ However, almost instantaneously, Scale [rescinded a new grad's offer](https://ol
 
 As the economic climate worsened, Scale resorted to a round of layoffs in January. Following that, the incoming NYC new grads were forced to relocate to SF in March. 
 
-I had no better options but to comply. Last-ditch efforts to interview with NYC-based Hudson River Trading and Ramp failed when I was studying abroad in Singapore.
+I had no better options but to comply. 
+
+<!-- Last-ditch efforts to interview with NYC-based Hudson River Trading and Ramp failed when I was studying abroad in Singapore. -->
 
 Despite this setback, my interview experience at Scale made me feel it was the right fit on my end as well, and that feeling was what I needed to end my new grad hunt.
 
