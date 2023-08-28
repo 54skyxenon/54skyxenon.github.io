@@ -6,15 +6,15 @@ draft: false
 
 <!-- {{% blog-shortcode caption="AI generated image of me, December 2022" file="/images/personal.jpg" %}} -->
 
-Hi -- I'm **Brandon**. I recently graduated from **[Northeastern](https://www.northeastern.edu/)** and work full-time now as a software engineer at **[Scale AI](https://www.scale.com)**. My first exposure to tech came through downloading a virus on my father's computer, prompting my curiosity... and the rest is history.
+Hi -- I'm **Brandon**. I recently graduated from university and work full-time now as a software engineer at **[Scale AI](https://www.scale.com)**. My first exposure to tech came through downloading a virus on my father's computer, prompting my curiosity... and the rest is history.
 
 Throughout college and now, my location has changed roughly every season:
 
 * #### 👨‍💻 (Currently) In SF, you'll find me riding my e-scooter around the Embarcadero and mingling at various tech conferences.
 * #### 🌴 In LA, you'll find me practicing driving, napping, or enjoying a meal back at home.
 * #### 🇨🇭 In Zürich, I might've been doing compilers homework in the ETH Polyterrasse or engrossed in an <u>[AIESEC meeting](https://aiesec.org/)</u>.
-* #### 🦞 In Boston, I might've been hanging out with other nerds at <u>[NUHacks](https://nuhacks.io/#/eboard)</u>, studying brainteasers to prepare for interviews, or reading books on the 5th floor of ISEC.
-* #### ✨ In Pittsburgh, I might've been hoarding sparkling water from the fridge at <u>[Duolingo](https://duolingo.com)</u> or reading a book in a random CMU building.
+* #### 🦞 In Boston, I might've been studying brainteasers to prepare for interviews, or reading books during the wee hours of the morning in the library.
+* #### ✨ In Pittsburgh, I might've been hoarding sparkling water from the fridge at <u>[Duolingo](https://duolingo.com)</u>.
 * #### 🗽 In NYC, I might've been walking through Penn Station for my morning commute or auditing an evening class at NYU with my friend <u>[Jerry](https://www.jerrykjia.com)</u>.
 * #### 🇸🇬 In Singapore, I might've been struggling to understand proofs in Real Analysis or grabbing a smoothie from the 300+ food stalls at NTU.
 
