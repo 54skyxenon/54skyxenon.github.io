@@ -185,7 +185,6 @@ copyright = ""            # default: author.name
     alipay = "/path/to/your/alipay-qr-code.png"
 
   [params.social]
-    a-list = "https://drive.google.com/file/d/1VVj5t5a433gg2VThEKQqnLBPiqIumrXK/view?usp=sharing"
     b-email = "mailto:bwliang2001@gmail.com"
     c-linkedin = "https://www.linkedin.com/in/bwliang/"
     d-github = "https://github.com/54skyxenon"
