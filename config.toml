@@ -23,6 +23,12 @@ copyright = ""            # default: author.name
 [author]                  # essential
   name = "Brandon"
 
+[[config.services.googleAnalytics]]
+  id = "G-0SS41M24K5"
+
+[[config.services.disqus]]
+  shortname = ""
+
 [sitemap]                 # essential
   changefreq = "weekly"
   priority = 0.5
