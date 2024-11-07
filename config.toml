@@ -20,7 +20,7 @@ disqusShortname = ""      # disqus_shortname
 googleAnalytics = "G-0SS41M24K5"      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name
 
-[author]                  # essential
+[author]                  # keep for backwards compatibility
   name = "Brandon"
 
 [[config.services.googleAnalytics]]
@@ -122,6 +122,9 @@ copyright = ""            # default: author.name
 
   # Show language selector for multilingual site.
   showLanguageSelector = false
+
+  [params.author]                  # essential
+    name = "Brandon"
 
   [params.publicCDN]        # load these files from public cdn
     enable = true
