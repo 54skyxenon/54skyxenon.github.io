@@ -15,10 +15,12 @@ pygmentsUseClasses = true
 pygmentsCodefencesGuessSyntax = true
 
 hasCJKLanguage = false     # has chinese/japanese/korean?
-paginate = 5
 disqusShortname = ""      # disqus_shortname
 googleAnalytics = "G-0SS41M24K5"      # UA-XXXXXXXX-X
 copyright = ""            # default: author.name
+
+[pagination]
+  pagerSize = 5
 
 [author]                  # keep for backwards compatibility
   name = "Brandon"
