@@ -1,144 +1,144 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About Me on Brandon Liang</title><link>https://brandonliang.com/</link><description>Recent content in About Me on Brandon Liang</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 07 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://brandonliang.com/index.xml" rel="self" type="application/rss+xml"/><item><title>The End of Sword Art Online</title><link>https://brandonliang.com/blog/end-of-sao/</link><pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/end-of-sao/</guid><description>&lt;h1 id="the-end-of-sword-art-online">The End of Sword Art Online&lt;/h1>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://pbs.twimg.com/media/GbSZWytawAAPZ8d?format=jpg&amp;amp;name=medium" />
-&lt;/p>
-&lt;center>&lt;i>&lt;/i>&lt;/center>
-&lt;p>Today, November 7 at 14:55 JST, marks the day Kirito beat Sword Art Online (SAO)! For fans, today is more than just an anniversary; it’s a reminder of why we fell in love with this world and its characters.&lt;/p>
-&lt;h2 id="the-deeper-meaning">The Deeper Meaning&lt;/h2>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://cdn.oneesports.gg/cdn-data/2024/05/Anime_SwordArtOnline_10thAnniversary_Illustration.jpg" />
-&lt;/p>
-&lt;center>&lt;i>&lt;/i>&lt;/center>
-&lt;p>The Aincrad arc is the namesake of the show - players are trapped in a virtual reality MMORPG where if they die in the game, they die in real life.&lt;/p></description></item><item><title>New Grad Finale: 2023</title><link>https://brandonliang.com/blog/finale-2023/</link><pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/finale-2023/</guid><description>&lt;h1 id="new-grad-finale-2023">New Grad Finale: 2023&lt;/h1>
-&lt;p>Read the 2022 prequel &lt;a href="../recruiting-2022">[here]&lt;/a>&lt;/p>
-&lt;hr>
-&lt;p>Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester. But I need to graduate and start working &lt;strong>full-time&lt;/strong> eventually. How does it all end?&lt;/p>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://images.squarespace-cdn.com/content/v1/57d9e959d482e972e8434364/1589381395948-346DOHXWB1OHSWB9PGZP/shutterstock_125513645.jpg" />
-&lt;/p>
-&lt;center>&lt;i>2023: running from the ax!&lt;/i>&lt;/center>
-&lt;p>After months of being tested on algorithms, API design, culture fit, C++, debugging, distributed systems, full-stack web development, Linux, logic puzzles, network protocols, operating systems, probability, Python, SQL queries, and system design - it works out.&lt;/p></description></item><item><title>No Distractions</title><link>https://brandonliang.com/blog/no-distractions/</link><pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/no-distractions/</guid><description>&lt;h1 id="spotify-no-longer-keeps-me-up">Spotify No Longer Keeps Me Up&lt;/h1>
-&lt;p>I always stay up way too late (even after getting work done) because I&amp;rsquo;m hooked on Spotify.&lt;/p>
-&lt;p>So I wrote a script and cron job to close Spotify automatically and scold me every night at 1:30 AM, 2:30 AM, and 3:30 AM!&lt;/p>
-&lt;h2 id="python">Python&lt;/h2>
-&lt;p>This is my computer systems knowledge coming to play! &lt;code>killall&lt;/code> will send the SIGTERM signal to all Spotify processes running at the time, giving Spotify time to clean up so that essential operations can finish before shutting down.&lt;/p></description></item><item><title>Hackathons</title><link>https://brandonliang.com/hackathons/</link><pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate><guid>https://brandonliang.com/hackathons/</guid><description>&lt;!-- https://ibb.co/album/jZgrx2 -->
-&lt;p>&lt;strong>Before the pandemic, I went to a hackathon nearly once every other weekend.&lt;/strong> Hackathons were an opportunity to meet smart people at other universities, visit a new city, enjoy great food, and learn the hottest new technologies.&lt;/p>
-&lt;p>That lifestyle ended after I graduated, but this page is dedicated to those memories.&lt;/p>
-&lt;p>Also, here&amp;rsquo;s my &lt;a href="https://devpost.com/54skyxenon">Devpost&lt;/a>.&lt;/p>
-&lt;hr>
-&lt;center>&lt;h1>Hack&amp;amp;Roll 2023 (Singapore)&lt;/h1>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/qWfx0r1/hack-and-roll.jpg" />
-&lt;/p>
-&lt;hr>
-&lt;center>&lt;h1>VandyHacks IX (Nashville, TN)&lt;/h1>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/XFjXsDp/vandyhacks.jpg" />
-&lt;/p></description></item><item><title>&lt;&lt; System Announcement >></title><link>https://brandonliang.com/blog/system-announcement/</link><pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/system-announcement/</guid><description>&lt;img src="https://img.wattpad.com/ed87caa359a9869a24de4ec19d43cca28321e164/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f393931332d49526467534e2d64513d3d2d3931383836333637342e313632306462666264333662303236313236383730333830303833362e6a7067?s=fit&amp;w=720&amp;h=720" />
-&lt;blockquote>
-&lt;p>Welcome to my world. My name is Akihiko Kayaba. And as of this moment, I am in control of this world. I&amp;rsquo;m sure most of you have already noticed an item missing from your main menus: the logout button. Let me ensure you, this is not a defect in the game. I repeat&amp;hellip; This is not a defect, this is how Sword Art Online was designed to be. You cannot log yourselves out of SAO. And no one from the outside will be able to shut down or remove the NerveGear from your head.&lt;/p></description></item><item><title>Returning to Yu-Gi-Oh</title><link>https://brandonliang.com/blog/yugioh/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/yugioh/</guid><description>&lt;p>&lt;strong>&lt;i>Last modified on: 2022-08-22&lt;/i>&lt;/strong>&lt;/p>
-&lt;p>I got back into Yu-Gi-Oh! recently with the iOS release of Master Duel and have built three different decks for competitive play. The highest tier I&amp;rsquo;ve made it to as of this writing is Platinum I (after Diamond rank update).&lt;/p>
-&lt;h2 id="swordsoul-tenyi">Swordsoul Tenyi&lt;/h2>
-&lt;p>TODO&lt;/p>
-&lt;h2 id="ddd">D/D/D&lt;/h2>
-&lt;blockquote>
-&lt;p>&amp;ldquo;D/D/D&amp;rdquo; stands for Different Dimension Daemon. Taste the power of demon kings that have conquered different dimensions.&lt;/p>&lt;/blockquote>
-&lt;p>It&amp;rsquo;s an incredibly hard deck to master, and I still am in the process of doing so. The central theme of the deck is utilizing every type of Extra Deck summoning method (Fusion, Xyz, Synchro, Link) to swarm the field with boss monsters. The &amp;ldquo;Dark Contract&amp;rdquo; Spells/Traps aid with searching and summoning these monsters, at a non-negligible cost of life points each turn. You should win fast or be prepared to counter this damage! &lt;a href="https://www.db.yugioh-card.com/yugiohdb/member_deck.action?cgid=757d76af0a8057ee1f24c54c90ec3062&amp;amp;dno=1&amp;amp;request_locale=en">[Deck Profile]&lt;/a>&lt;/p></description></item><item><title>Co-op Duels: 2022</title><link>https://brandonliang.com/blog/recruiting-2022/</link><pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/recruiting-2022/</guid><description>&lt;!-- https://ibb.co/album/Fgq2gQ -->
-&lt;h1 id="co-op-duels-2022">Co-op Duels: 2022&lt;/h1>
-&lt;p>&lt;strong>&lt;i>Last modified on: 2023-01-21&lt;/i>&lt;/strong>&lt;/p>
-&lt;p>Read the 2021 prequel &lt;a href="../recruiting-2021">[here]&lt;/a>&lt;/p>
-&lt;hr>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/BwBC3dK/snow-duol-fb-2022.png" />
-&lt;/p>
-&lt;center>&lt;i>&lt;/i>&lt;/center>
-&lt;/p>
-&lt;p>Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester, here&amp;rsquo;s how it went during my junior year.&lt;/p>
-&lt;p>I interned as a software engineer at &lt;a href="https://www.snowflake.com/">Snowflake&lt;/a> in Boston working on diagnostics reporting, followed by &lt;a href="https://www.duolingo.com">Duolingo&lt;/a> in Pittsburgh working on speech recognition, followed by &lt;a href="https://about.facebook.com/meta/">Meta&lt;/a> in NYC working on AR/VR headsets.&lt;/p></description></item><item><title>Semester Abroad in Switzerland</title><link>https://brandonliang.com/blog/switzerland/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/switzerland/</guid><description>&lt;!-- https://ibb.co/album/VxDN1G -->
-&lt;p>&lt;strong>&lt;i>Last modified on: 2023-06-20&lt;/i>&lt;/strong>&lt;/p>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/y582mWC/end.png" />
-&lt;/p>
-&lt;center>&lt;i>The town of Lucerne&lt;/i>&lt;/center>
-&lt;p>During the Fall 2021 semester, I studied computer science as an exchange student at the University of Zürich and a special student at ETH Zürich in Switzerland. Here&amp;rsquo;s how it went.&lt;/p>
-&lt;p>&lt;em>(Most of this content is readapted from my exchange experience report, thanks goes to my friend Elaine for helping me edit this.)&lt;/em>&lt;/p>
-&lt;h1 id="preparing">Preparing&lt;/h1>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/NrVvs5S/preparation.png" />
-&lt;/p></description></item><item><title>Travel</title><link>https://brandonliang.com/blog/travel/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/travel/</guid><description>&lt;center>&lt;h3>I've been to a lot of places! Prepare to scroll a bit.&lt;/h3>&lt;/center>
-&lt;!-- https://ibb.co/album/X72pq2 -->
-&lt;center>&lt;h1>United States&lt;/h1>&lt;/center>
-&lt;hr>
-&lt;center>&lt;h3>Boston, MA&lt;/h3>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/DY2jRxV/boston.jpg" />
-&lt;/p>
-&lt;hr>
-&lt;center>&lt;h3>Chicago, IL&lt;/h3>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/M6f4FJy/chicago.jpg" />
-&lt;/p>
-&lt;hr>
-&lt;center>&lt;h3>Concord, MA&lt;/h3>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/RzRLvTF/concord.jpg" />
-&lt;/p>
-&lt;hr>
-&lt;center>&lt;h3>Glen Canyon, AZ&lt;/h3>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/0jwXWD5/glen-canyon.jpg" />
-&lt;/p>
-&lt;hr>
-&lt;center>&lt;h3>Las Vegas, NV&lt;/h3>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/dQqtxgk/las-vegas.jpg" />
-&lt;/p>
-&lt;hr>
-&lt;center>&lt;h3>Los Angeles, CA&lt;/h3>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/gt6bVvx/los-angeles.jpg" />
-&lt;/p>
-&lt;hr>
-&lt;center>&lt;h3>Lexington, KY&lt;/h3>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/HVwffJL/lexington.jpg" />
-&lt;/p>
-&lt;hr>
-&lt;center>&lt;h3>Nashville, TN&lt;/h3>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/Zd2dJ47/nashville.jpg" />
-&lt;/p>
-&lt;hr>
-&lt;center>&lt;h3>New Haven, CT&lt;/h3>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/ZfB3wLj/new-haven.jpg" />
-&lt;/p></description></item><item><title>Projects</title><link>https://brandonliang.com/projects/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://brandonliang.com/projects/</guid><description>&lt;!-- https://ibb.co/album/m5ryBN -->
-&lt;h1 id="see-some-of-the-best-projects-i">&lt;em>See some of the best projects I&amp;rsquo;ve done as a student!&lt;/em>&lt;/h1>
-&lt;hr>
-&lt;center>&lt;h2>Transight&lt;/h2>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 60%; border-radius: 3%;" src="https://i.ibb.co/q9rQ9bD/project-10.png" />
-&lt;/p>
-(Trans)action In(sight). This webapp helps people itemize their receipts for corporate reimbursements. A 3rd-party optical character recognition (OCR) API scans the uploaded receipt. &lt;a href="http://transight.tech">[Demo]&lt;/a>
-&lt;hr>
-&lt;center>&lt;h2>AR Quiz&lt;/h2>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 60%; border-radius: 3%;" src="https://i.ibb.co/HCxCDqQ/project-9.png" />
-&lt;/p>
-It's an augmented reality scavenger hunt. We made a quiz game in Unity where each question prompts you to find a QR in a specific room, which when scanned, renders a 3d object that answers the question (try this one 😉)! &lt;a href="https://www.youtube.com/watch?v=5PCPTEP7SO0">[Demo]&lt;/a>
-&lt;hr>
-&lt;center>&lt;h2>EAST&lt;/h2>&lt;/center>
-&lt;p align="center">
- &lt;img style="max-width: 60%; border-radius: 3%;" src="https://i.ibb.co/FwQCYM1/project-8.jpg" />
-&lt;/p></description></item><item><title>Thoughts</title><link>https://brandonliang.com/blog/thoughts/</link><pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/thoughts/</guid><description>&lt;h1 id="my-thoughts">My Thoughts&lt;/h1>
-&lt;p>&lt;em>Just a collection of thoughts and interesting questions I&amp;rsquo;ve thought about. If you have answers or an opinion to these, I&amp;rsquo;d love to start a conversation!&lt;/em>&lt;/p>
-&lt;hr>
-&lt;h2 id="restart-civilization">Restart Civilization&lt;/h2>
-&lt;p>Suppose every human on Earth suddenly disappears except you and the other people at your university or workplace. What is the first thing you and your friends do? In the long-term, how would this event affect race, religion, and politics?&lt;/p></description></item><item><title>Co-op Duels: 2021</title><link>https://brandonliang.com/blog/recruiting-2021/</link><pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/recruiting-2021/</guid><description>&lt;h1 id="co-op-duels-2021">Co-op Duels: 2021&lt;/h1>
-&lt;p>&lt;strong>&lt;i>Last modified on: 2022-11-25&lt;/i>&lt;/strong>&lt;/p>
-&lt;p align="center">
- &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/SXXJp52/mw-msft-2021.png" />
-&lt;/p>
-&lt;center>&lt;i>&lt;/i>&lt;/center>
-&lt;p>Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester, this is how it went during my sophomore year. Some people opt for one long co-op, some break it up into two (me), and some even three.&lt;/p>
-&lt;p>I interned as a software engineer at &lt;a href="https://www.mathworks.com/">MathWorks&lt;/a> working on the MATLAB engine, followed by &lt;a href="https://www.microsoft.com/en-us/">Microsoft&lt;/a> working on the Azure cloud computing platform, respectively.&lt;/p></description></item><item><title>My First Post!</title><link>https://brandonliang.com/blog/my-first-post/</link><pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/my-first-post/</guid><description>&lt;p>I decided to migrate from my old website to a blog on the Hugo engine, since I feel like writing to capture my &lt;em>unconventional&lt;/em> college experience. My university friend &lt;a href="https://joshspicer.com">Josh&lt;/a> also gave me some great advice to change to a minimalistic website as I&amp;rsquo;d get tired of the design less easily.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>About Me on Brandon Liang</title><link>https://brandonliang.com/</link><description>Recent content in About Me on Brandon Liang</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 07 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://brandonliang.com/index.xml" rel="self" type="application/rss+xml"/><item><title>The End of Sword Art Online</title><link>https://brandonliang.com/blog/end-of-sao/</link><pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/end-of-sao/</guid><description>&lt;h1 id="the-end-of-sword-art-online"&gt;The End of Sword Art Online&lt;/h1&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://pbs.twimg.com/media/GbSZWytawAAPZ8d?format=jpg&amp;amp;name=medium" /&gt;
+&lt;/p&gt;
+&lt;center&gt;&lt;i&gt;&lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;Today, November 7 at 14:55 JST, marks the day Kirito beat Sword Art Online (SAO)! For fans, today is more than just an anniversary; it’s a reminder of why we fell in love with this world and its characters.&lt;/p&gt;
+&lt;h2 id="the-deeper-meaning"&gt;The Deeper Meaning&lt;/h2&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://cdn.oneesports.gg/cdn-data/2024/05/Anime_SwordArtOnline_10thAnniversary_Illustration.jpg" /&gt;
+&lt;/p&gt;
+&lt;center&gt;&lt;i&gt;&lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;The Aincrad arc is the namesake of the show - players are trapped in a virtual reality MMORPG where if they die in the game, they die in real life.&lt;/p&gt;</description></item><item><title>New Grad Finale: 2023</title><link>https://brandonliang.com/blog/finale-2023/</link><pubDate>Tue, 06 Jun 2023 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/finale-2023/</guid><description>&lt;h1 id="new-grad-finale-2023"&gt;New Grad Finale: 2023&lt;/h1&gt;
+&lt;p&gt;Read the 2022 prequel &lt;a href="../recruiting-2022"&gt;[here]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester. But I need to graduate and start working &lt;strong&gt;full-time&lt;/strong&gt; eventually. How does it all end?&lt;/p&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://images.squarespace-cdn.com/content/v1/57d9e959d482e972e8434364/1589381395948-346DOHXWB1OHSWB9PGZP/shutterstock_125513645.jpg" /&gt;
+&lt;/p&gt;
+&lt;center&gt;&lt;i&gt;2023: running from the ax!&lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;After months of being tested on algorithms, API design, culture fit, C++, debugging, distributed systems, full-stack web development, Linux, logic puzzles, network protocols, operating systems, probability, Python, SQL queries, and system design - it works out.&lt;/p&gt;</description></item><item><title>No Distractions</title><link>https://brandonliang.com/blog/no-distractions/</link><pubDate>Fri, 10 Feb 2023 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/no-distractions/</guid><description>&lt;h1 id="spotify-no-longer-keeps-me-up"&gt;Spotify No Longer Keeps Me Up&lt;/h1&gt;
+&lt;p&gt;I always stay up way too late (even after getting work done) because I&amp;rsquo;m hooked on Spotify.&lt;/p&gt;
+&lt;p&gt;So I wrote a script and cron job to close Spotify automatically and scold me every night at 1:30 AM, 2:30 AM, and 3:30 AM!&lt;/p&gt;
+&lt;h2 id="python"&gt;Python&lt;/h2&gt;
+&lt;p&gt;This is my computer systems knowledge coming to play! &lt;code&gt;killall&lt;/code&gt; will send the SIGTERM signal to all Spotify processes running at the time, giving Spotify time to clean up so that essential operations can finish before shutting down.&lt;/p&gt;</description></item><item><title>Hackathons</title><link>https://brandonliang.com/hackathons/</link><pubDate>Fri, 25 Nov 2022 00:00:00 +0000</pubDate><guid>https://brandonliang.com/hackathons/</guid><description>&lt;!-- https://ibb.co/album/jZgrx2 --&gt;
+&lt;p&gt;&lt;strong&gt;Before the pandemic, I went to a hackathon nearly once every other weekend.&lt;/strong&gt; Hackathons were an opportunity to meet smart people at other universities, visit a new city, enjoy great food, and learn the hottest new technologies.&lt;/p&gt;
+&lt;p&gt;That lifestyle ended after I graduated, but this page is dedicated to those memories.&lt;/p&gt;
+&lt;p&gt;Also, here&amp;rsquo;s my &lt;a href="https://devpost.com/54skyxenon"&gt;Devpost&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h1&gt;Hack&amp;amp;Roll 2023 (Singapore)&lt;/h1&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/qWfx0r1/hack-and-roll.jpg" /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h1&gt;VandyHacks IX (Nashville, TN)&lt;/h1&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/XFjXsDp/vandyhacks.jpg" /&gt;
+&lt;/p&gt;</description></item><item><title>&lt;&lt; System Announcement &gt;&gt;</title><link>https://brandonliang.com/blog/system-announcement/</link><pubDate>Sun, 06 Nov 2022 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/system-announcement/</guid><description>&lt;img src="https://img.wattpad.com/ed87caa359a9869a24de4ec19d43cca28321e164/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f393931332d49526467534e2d64513d3d2d3931383836333637342e313632306462666264333662303236313236383730333830303833362e6a7067?s=fit&amp;w=720&amp;h=720" /&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Welcome to my world. My name is Akihiko Kayaba. And as of this moment, I am in control of this world. I&amp;rsquo;m sure most of you have already noticed an item missing from your main menus: the logout button. Let me ensure you, this is not a defect in the game. I repeat&amp;hellip; This is not a defect, this is how Sword Art Online was designed to be. You cannot log yourselves out of SAO. And no one from the outside will be able to shut down or remove the NerveGear from your head.&lt;/p&gt;</description></item><item><title>Returning to Yu-Gi-Oh</title><link>https://brandonliang.com/blog/yugioh/</link><pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/yugioh/</guid><description>&lt;p&gt;&lt;strong&gt;&lt;i&gt;Last modified on: 2022-08-22&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I got back into Yu-Gi-Oh! recently with the iOS release of Master Duel and have built three different decks for competitive play. The highest tier I&amp;rsquo;ve made it to as of this writing is Platinum I (after Diamond rank update).&lt;/p&gt;
+&lt;h2 id="swordsoul-tenyi"&gt;Swordsoul Tenyi&lt;/h2&gt;
+&lt;p&gt;TODO&lt;/p&gt;
+&lt;h2 id="ddd"&gt;D/D/D&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;D/D/D&amp;rdquo; stands for Different Dimension Daemon. Taste the power of demon kings that have conquered different dimensions.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;It&amp;rsquo;s an incredibly hard deck to master, and I still am in the process of doing so. The central theme of the deck is utilizing every type of Extra Deck summoning method (Fusion, Xyz, Synchro, Link) to swarm the field with boss monsters. The &amp;ldquo;Dark Contract&amp;rdquo; Spells/Traps aid with searching and summoning these monsters, at a non-negligible cost of life points each turn. You should win fast or be prepared to counter this damage! &lt;a href="https://www.db.yugioh-card.com/yugiohdb/member_deck.action?cgid=757d76af0a8057ee1f24c54c90ec3062&amp;amp;dno=1&amp;amp;request_locale=en"&gt;[Deck Profile]&lt;/a&gt;&lt;/p&gt;</description></item><item><title>Co-op Duels: 2022</title><link>https://brandonliang.com/blog/recruiting-2022/</link><pubDate>Sat, 16 Apr 2022 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/recruiting-2022/</guid><description>&lt;!-- https://ibb.co/album/Fgq2gQ --&gt;
+&lt;h1 id="co-op-duels-2022"&gt;Co-op Duels: 2022&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;Last modified on: 2023-01-21&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Read the 2021 prequel &lt;a href="../recruiting-2021"&gt;[here]&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/BwBC3dK/snow-duol-fb-2022.png" /&gt;
+&lt;/p&gt;
+&lt;center&gt;&lt;i&gt;&lt;/i&gt;&lt;/center&gt;
+&lt;/p&gt;
+&lt;p&gt;Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester, here&amp;rsquo;s how it went during my junior year.&lt;/p&gt;
+&lt;p&gt;I interned as a software engineer at &lt;a href="https://www.snowflake.com/"&gt;Snowflake&lt;/a&gt; in Boston working on diagnostics reporting, followed by &lt;a href="https://www.duolingo.com"&gt;Duolingo&lt;/a&gt; in Pittsburgh working on speech recognition, followed by &lt;a href="https://about.facebook.com/meta/"&gt;Meta&lt;/a&gt; in NYC working on AR/VR headsets.&lt;/p&gt;</description></item><item><title>Semester Abroad in Switzerland</title><link>https://brandonliang.com/blog/switzerland/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/switzerland/</guid><description>&lt;!-- https://ibb.co/album/VxDN1G --&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;Last modified on: 2023-06-20&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/y582mWC/end.png" /&gt;
+&lt;/p&gt;
+&lt;center&gt;&lt;i&gt;The town of Lucerne&lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;During the Fall 2021 semester, I studied computer science as an exchange student at the University of Zürich and a special student at ETH Zürich in Switzerland. Here&amp;rsquo;s how it went.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(Most of this content is readapted from my exchange experience report, thanks goes to my friend Elaine for helping me edit this.)&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id="preparing"&gt;Preparing&lt;/h1&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/NrVvs5S/preparation.png" /&gt;
+&lt;/p&gt;</description></item><item><title>Travel</title><link>https://brandonliang.com/blog/travel/</link><pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/travel/</guid><description>&lt;center&gt;&lt;h3&gt;I've been to a lot of places! Prepare to scroll a bit.&lt;/h3&gt;&lt;/center&gt;
+&lt;!-- https://ibb.co/album/X72pq2 --&gt;
+&lt;center&gt;&lt;h1&gt;United States&lt;/h1&gt;&lt;/center&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h3&gt;Boston, MA&lt;/h3&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/DY2jRxV/boston.jpg" /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h3&gt;Chicago, IL&lt;/h3&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/M6f4FJy/chicago.jpg" /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h3&gt;Concord, MA&lt;/h3&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/RzRLvTF/concord.jpg" /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h3&gt;Glen Canyon, AZ&lt;/h3&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/0jwXWD5/glen-canyon.jpg" /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h3&gt;Las Vegas, NV&lt;/h3&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/dQqtxgk/las-vegas.jpg" /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h3&gt;Los Angeles, CA&lt;/h3&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/gt6bVvx/los-angeles.jpg" /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h3&gt;Lexington, KY&lt;/h3&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/HVwffJL/lexington.jpg" /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h3&gt;Nashville, TN&lt;/h3&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/Zd2dJ47/nashville.jpg" /&gt;
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h3&gt;New Haven, CT&lt;/h3&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/ZfB3wLj/new-haven.jpg" /&gt;
+&lt;/p&gt;</description></item><item><title>Projects</title><link>https://brandonliang.com/projects/</link><pubDate>Fri, 26 Nov 2021 00:00:00 +0000</pubDate><guid>https://brandonliang.com/projects/</guid><description>&lt;!-- https://ibb.co/album/m5ryBN --&gt;
+&lt;h1 id="see-some-of-the-best-projects-i"&gt;&lt;em&gt;See some of the best projects I&amp;rsquo;ve done as a student!&lt;/em&gt;&lt;/h1&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h2&gt;Transight&lt;/h2&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 60%; border-radius: 3%;" src="https://i.ibb.co/q9rQ9bD/project-10.png" /&gt;
+&lt;/p&gt;
+(Trans)action In(sight). This webapp helps people itemize their receipts for corporate reimbursements. A 3rd-party optical character recognition (OCR) API scans the uploaded receipt. &lt;a href="http://transight.tech"&gt;[Demo]&lt;/a&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h2&gt;AR Quiz&lt;/h2&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 60%; border-radius: 3%;" src="https://i.ibb.co/HCxCDqQ/project-9.png" /&gt;
+&lt;/p&gt;
+It's an augmented reality scavenger hunt. We made a quiz game in Unity where each question prompts you to find a QR in a specific room, which when scanned, renders a 3d object that answers the question (try this one 😉)! &lt;a href="https://www.youtube.com/watch?v=5PCPTEP7SO0"&gt;[Demo]&lt;/a&gt;
+&lt;hr&gt;
+&lt;center&gt;&lt;h2&gt;EAST&lt;/h2&gt;&lt;/center&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 60%; border-radius: 3%;" src="https://i.ibb.co/FwQCYM1/project-8.jpg" /&gt;
+&lt;/p&gt;</description></item><item><title>Thoughts</title><link>https://brandonliang.com/blog/thoughts/</link><pubDate>Sat, 20 Nov 2021 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/thoughts/</guid><description>&lt;h1 id="my-thoughts"&gt;My Thoughts&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Just a collection of thoughts and interesting questions I&amp;rsquo;ve thought about. If you have answers or an opinion to these, I&amp;rsquo;d love to start a conversation!&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id="restart-civilization"&gt;Restart Civilization&lt;/h2&gt;
+&lt;p&gt;Suppose every human on Earth suddenly disappears except you and the other people at your university or workplace. What is the first thing you and your friends do? In the long-term, how would this event affect race, religion, and politics?&lt;/p&gt;</description></item><item><title>Co-op Duels: 2021</title><link>https://brandonliang.com/blog/recruiting-2021/</link><pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/recruiting-2021/</guid><description>&lt;h1 id="co-op-duels-2021"&gt;Co-op Duels: 2021&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;&lt;i&gt;Last modified on: 2022-11-25&lt;/i&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p align="center"&gt;
+ &lt;img style="max-width: 80%; border-radius: 3%;" src="https://i.ibb.co/SXXJp52/mw-msft-2021.png" /&gt;
+&lt;/p&gt;
+&lt;center&gt;&lt;i&gt;&lt;/i&gt;&lt;/center&gt;
+&lt;p&gt;Northeastern has a co-op program where upperclassmen spend 4-8 months working full-time instead of taking classes for a semester, this is how it went during my sophomore year. Some people opt for one long co-op, some break it up into two (me), and some even three.&lt;/p&gt;
+&lt;p&gt;I interned as a software engineer at &lt;a href="https://www.mathworks.com/"&gt;MathWorks&lt;/a&gt; working on the MATLAB engine, followed by &lt;a href="https://www.microsoft.com/en-us/"&gt;Microsoft&lt;/a&gt; working on the Azure cloud computing platform, respectively.&lt;/p&gt;</description></item><item><title>My First Post!</title><link>https://brandonliang.com/blog/my-first-post/</link><pubDate>Sat, 04 Sep 2021 00:00:00 +0000</pubDate><guid>https://brandonliang.com/blog/my-first-post/</guid><description>&lt;p&gt;I decided to migrate from my old website to a blog on the Hugo engine, since I feel like writing to capture my &lt;em&gt;unconventional&lt;/em&gt; college experience. My university friend &lt;a href="https://joshspicer.com"&gt;Josh&lt;/a&gt; also gave me some great advice to change to a minimalistic website as I&amp;rsquo;d get tired of the design less easily.&lt;/p&gt;</description></item></channel></rss>
