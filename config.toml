@@ -57,8 +57,13 @@ copyright = ""            # default: author.name
   identifier = "hackathons"
   url = "/hackathons/"
 [[menu.main]]
-  name = "Bill Splitter"
+  name = "Services"
   weight = 5
+  identifier = "services"
+  url = "/services/"
+[[menu.main]]
+  name = "Bill Splitter"
+  weight = 6
   identifier = "bill-splitter"
   url = "https://bill-splitter.brandonliang.com/"
 
