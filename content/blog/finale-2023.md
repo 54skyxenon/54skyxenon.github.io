@@ -98,3 +98,5 @@ Despite this setback, my interview experience at Scale made me feel it was the r
 {{% blog-shortcode file="https://assets.website-files.com/5f6bc60e665f54db361e52a9/5f6bc60e665f5471cf1e5404_logo_scale.png" caption="Until further notice, find me in SF!"  %}}
 
 My biggest takeaways this year were in figuring out what I was and wasn't a fit for. Even if I demonstrated adequate technical ability, **some companies didn't feel like my interests were right for them without me even realizing it then.**
+
+Time skip 2 years [[here]](../midlevel-2025)?
