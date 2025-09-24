@@ -35,7 +35,7 @@ As usual, here are some statistics. This cycle lasted 2 months: I began recruiti
 >
 > Team matching interviews: **5**
 > 
-> Confirmed offers: **3** 
+> Confirmed offers: **4** 
 
 The market in 2025 still felt gritty, though it _was_ somewhat better than 2023. The biggest difference between this cycle and previous ones is that **recruiters reach out to you instead as an experienced candidate** if they want you. Working at a reputable AI company certainly helped with getting those recruiter reachouts. It's not the other way around anymore as a student where I'd spray and pray applications. 
 
@@ -123,7 +123,7 @@ I'd received offers from Coinbase and Meta that I used as negotiation leverage a
 
 Things moved quickly that last week. Two Sigma declared they were moving forward with an offer, and that gave me the greenlight to drop both Coinbase and Meta who were close to deadline expiration. Concurrently, I'd reached the team match stage at Citadel and immediately notified Two Sigma. What happened next was unbelievable: Two Sigma inquired how much they'd need to offer to _just walk away_ from Citadel's process -- it's like I was witnessing a duel in front of me between these two behemoths.
 
-Four parties at once now were applying pressure: Two Sigma's team, Citadel's team, and the competing headhunting agencies representing me for both firms. I sat two team matches interviews for Citadel, and concurrently again Two Sigma came in with an aggressive offer that I relayed back to Citadel. Citadel, while satisfied, was not moved enough by my performance to expedite their _final_ final stages and notified me they were not moving forward -- effectively yielding to Two Sigma.
+Four parties at once now were applying pressure: Two Sigma's team, Citadel's team, and the competing headhunting agencies representing me for both firms. I sat two team matches interviews for Citadel, and concurrently again Two Sigma came in with an aggressive offer that I relayed back to Citadel. Citadel, while satisfied, was not moved enough by my performance to expedite their _final_ final stages and notified me they were not moving forward -- yielding to Two Sigma.
 
 There was nothing standing in the way at that point, and I accepted an hour later after all the news settled. So starting mid-October: I will be working at **Two Sigma** as a software engineer, staying in NYC for the foreseeable future. I've been wanting to try out quantitative finance for a long time now, so there is a happy ending for this cycle!
 
