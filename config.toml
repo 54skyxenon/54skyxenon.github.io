@@ -47,18 +47,8 @@ copyright = ""            # default: author.name
   identifier = "archives"
   url = "/blog/"
 [[menu.main]]
-  name = "Projects"
-  weight = 3
-  identifier = "tags"
-  url = "/projects/"
-[[menu.main]]
-  name = "Hackathons"
-  weight = 4
-  identifier = "hackathons"
-  url = "/hackathons/"
-[[menu.main]]
   name = "Bill Splitter"
-  weight = 5
+  weight = 3
   identifier = "bill-splitter"
   url = "https://bill-splitter.brandonliang.com/"
 

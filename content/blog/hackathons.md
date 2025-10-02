@@ -1,10 +1,13 @@
 ---
 title: "Hackathons"
-date: 2022-11-25
+date: 2023-01-15
 draft: false
 ---
 
 <!-- https://ibb.co/album/jZgrx2 -->
+
+**<i>Last addition: January 2023</i>**
+
 **Before the pandemic, I went to a hackathon nearly once every other weekend.** Hackathons were an opportunity to meet smart people at other universities, visit a new city, enjoy great food, and learn the hottest new technologies.
 
 That lifestyle ended after I graduated, but this page is dedicated to those memories.

@@ -5,7 +5,7 @@ draft: true
 ---
 
 # Navigating the Mid-Level Maze: 2025
-Read the 2023 prequel [[here]](../finale-2023), or just skip to the end if you're wondering where I'm going next.
+Read the 2023 prequel [[here]](../finale-2023)
 
 ---
 
@@ -103,8 +103,6 @@ While some companies put you in a team-specific loop when beginning the intervie
 In particular, Google is infamous for this happening to some candidates. I had my first taste of this unfortunate situation this cycle with Ramp.
 
 {{% blog-shortcode file="https://i.ibb.co/sdG94TCJ/ramp-fail.png" %}}
-
-But I kept interviewing after that and things still worked out!
 
 ## Acknowledgements
 

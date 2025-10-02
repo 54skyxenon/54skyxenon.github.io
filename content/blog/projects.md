@@ -1,10 +1,13 @@
 ---
 title: "Projects"
-date: 2021-11-26
+date: 2022-10-23
 draft: false
 ---
 
 <!-- https://ibb.co/album/m5ryBN -->
+
+**<i>Last addition: October 2022</i>**
+
 # _See some of the best projects I've done as a student!_
 
 {{% project-shortcode title="Transight" file="https://i.ibb.co/q9rQ9bD/project-10.png" %}}

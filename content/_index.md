@@ -1,17 +1,19 @@
 ---
 title: "About Me"
-date: 2024-06-23
+date: 2025-10-01
 draft: false
 ---
 
 Hi -- I'm **Brandon** and welcome to my little corner of the internet!
 
-I work as a software engineer at **[Scale AI](https://www.scale.com)**, currently based in New York City. What first prompted my curiosity in technology was accidentally downloading a virus on my father's computer... and the rest is history.
+I became curious about technology decades ago after accidentally downloading a virus on my father's computer, and I've never stopped learning about it since then. These days: I'm a software engineer based in New York City. 
+
+In my past lives, I supported data labeling payments at **[Scale AI](https://www.scale.com)** and studied CS at **[Northeastern](https://www.northeastern.edu/)**. You can check out my CV [**here**](https://drive.google.com/file/d/1VVj5t5a433gg2VThEKQqnLBPiqIumrXK/view?usp=sharing), though I'm not currently looking for a new job.
 
 <!--
 Throughout college and now, my location has changed roughly every season:
 
-* #### 🗽 (Soon) In NYC, I'll be moving to the Long Island City neighborhood in Queens.
+* #### 🗽 In NYC, I'll be moving to the Long Island City neighborhood in Queens.
 * #### 👨‍💻 In SF, I might've been riding my scooter around the Embarcadero and SoMa.
 * #### 🌴 In LA, I might've been practicing driving, napping, or enjoying a meal back at home.
 * #### 🇨🇭 In Zürich, I might've been doing compilers homework in the ETH Polyterrasse or meeting up with friends.
@@ -21,5 +23,3 @@ Throughout college and now, my location has changed roughly every season:
 -->
 
 Outside of work, I'm probably losing Inn Challenges in [**DragonFable**](https://dragonfable.com), saving my Duolingo streak, reading the Sword Art Online light novels, or traveling.
-
-You can check out my CV [**here**](https://drive.google.com/file/d/1VVj5t5a433gg2VThEKQqnLBPiqIumrXK/view?usp=sharing).
