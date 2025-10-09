@@ -16,7 +16,7 @@ I'm working at **Two Sigma** now!
 
 ---
 
-If you've read my three previous posts leading up to this, you already know how this story usually begins: me reminding you that Northeastern has a co-op program! That hasn't changed, but I’ve been out of school for a couple of years now.
+If you've read my three previous posts leading up to this, you already know how this story usually begins: me reminding you that Northeastern has a co-op program! That hasn't changed, but I've been out of school for a couple of years now.
 
 Let's talk about what's changed for my job search as a mid-level candidate.
 
@@ -27,6 +27,8 @@ Let's talk about what's changed for my job search as a mid-level candidate.
 **The 2-year mark is a crucial milestone in every Scalien's career.** Beyond the 5-year post-termination exercise privilege we earn through it, it's an indication that you're dedicated enough to survive the most intense periods of our history. For most companies, the 2-year mark signals that you've grown into a mid-level engineer. You're capable of working with autonomy, though not yet to the extent of a senior. This *somewhat* unlocks the flood of opportunities people often tout about software engineering that entry-level candidates rarely have access to.
 
 Around 4 months ago, [Meta invested $14B into Scale](https://techcrunch.com/2025/06/13/scale-ai-confirms-significant-investment-from-meta-says-ceo-alexandr-wang-is-leaving/) to hire our leadership for their superintelligence lab. After Meta's investment and its payout to Scale employees, the company entered a new chapter. I remain bullish on Scale's long-term mission, but it's clear the next phase will be led by a different generation of talent.
+
+My last reason for moving on was more personal. After a year in SF, I relocated to NYC in summer 2024 -- something I'd wanted from the start but couldn't do due to internal policies. (Some folks still think I live in SF.) The SF headquarters has always been the favorite child in terms of visibility and resources, which made it harder to feel fully integrated with the NYC office. I wanted my next company to be based here, where my work life and personal life actually line up.
 
 ## The Application Process
 
