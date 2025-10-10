@@ -114,12 +114,6 @@ In particular, Google is infamous for this happening to some candidates. I exper
 
 {{% blog-shortcode file="https://i.ibb.co/sdG94TCJ/ramp-fail.png" %}}
 
-## Acknowledgements
-
-Many connections/ex-Scaliens extended a helping hand this cycle, offering referrals to fast-track my applications at some great companies and helping me practice for interviews.
-
-If you are one of those people reading this now, you have my gratitude, and some of the insights in this article would not be possible without you.
-
 ## Where Next?
 
 The climax of this cycle was a nail-biter. I received offers from Coinbase and Meta that I used as negotiation leverage against two remaining firms I was contending with: Two Sigma and Citadel.
@@ -131,3 +125,9 @@ In the end, **Two Sigma** made a decisive move with an offer that cut through th
 I'll stay for a while.
 
 {{% blog-shortcode file="https://ftp.pdl.cmu.edu/pub/datasets/ATLAS/images/twosigma.png" %}}
+
+## Acknowledgements
+
+Many connections/ex-Scaliens extended a helping hand this cycle, offering referrals to fast-track my applications at some great companies and helping me practice for interviews.
+
+If you are one of those people reading this now, you have my gratitude, and some of the insights in this article would not be possible without you.
