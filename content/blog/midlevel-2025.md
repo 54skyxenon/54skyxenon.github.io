@@ -1,8 +1,10 @@
 ---
 title: "Navigating the Mid-Level Maze: 2025"
-date: 2025-09-06
-draft: true
+date: 2025-10-13
+draft: false
 ---
+
+<!-- https://ibb.co/album/LN8p6h -->
 
 # Navigating the Mid-Level Maze: 2025
 Read the 2023 prequel [[here]](../finale-2023)
@@ -16,13 +18,13 @@ I'm working at **Two Sigma** now!
 
 ---
 
+{{% blog-shortcode file="https://i.ibb.co/Vpj852GM/job-change-quest.webp" %}}
+
 If you've read my three previous posts leading up to this, you already know how this story usually begins: me reminding you that Northeastern has a co-op program! That hasn't changed, but I've been out of school for a couple of years now.
 
 Let's talk about what's changed for my job search as a mid-level candidate.
 
 ## "Why are you leaving Scale AI?"
-
-{{% blog-shortcode caption="July 17, 2025" file="https://i.ibb.co/Vpj852GM/job-change-quest.webp" %}}
 
 **The 2-year mark is a crucial milestone in every Scalien's career.** Beyond the 5-year post-termination exercise privilege we earn through it, it's an indication that you're dedicated enough to survive the most intense periods of our history. For most companies, the 2-year mark signals that you've grown into a mid-level engineer. You're capable of working with autonomy, though not yet to the extent of a senior. This *somewhat* unlocks the flood of opportunities people often tout about software engineering that entry-level candidates rarely have access to.
 
@@ -131,3 +133,5 @@ I'll stay for a while.
 Many connections/ex-Scaliens extended a helping hand this cycle, offering referrals to fast-track my applications at some great companies and helping me practice for interviews.
 
 If you are one of those people reading this now, you have my gratitude, and some of the insights in this article would not be possible without you.
+
+{{% blog-shortcode file="https://i.ibb.co/6RkcTD50/job-change-complete.png" %}}
