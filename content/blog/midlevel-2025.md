@@ -9,13 +9,6 @@ draft: false
 # Navigating the Mid-Level Maze: 2025
 Read the 2023 prequel [[here]](../finale-2023)
 
-<details>
-<summary>TL;DR (click to reveal spoilers)</summary>
-
-I'm working at **Two Sigma** now!
-
-</details>
-
 ---
 
 {{% blog-shortcode file="https://i.ibb.co/Vpj852GM/job-change-quest.webp" %}}
@@ -133,5 +126,7 @@ I'll stay for a while.
 Many connections/ex-Scaliens extended a helping hand this cycle, offering referrals to fast-track my applications at some great companies and helping me practice for interviews.
 
 If you are one of those people reading this now, you have my gratitude, and some of the insights in this article would not be possible without you.
+
+Until next time!
 
 {{% blog-shortcode file="https://i.ibb.co/6RkcTD50/job-change-complete.png" %}}
