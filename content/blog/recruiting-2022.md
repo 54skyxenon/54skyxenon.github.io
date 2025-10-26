@@ -5,7 +5,8 @@ draft: false
 ---
 <!-- https://ibb.co/album/Fgq2gQ -->
 # Co-op Duels: 2022
-**<i>Last modified on: 2023-01-21</i>**
+
+**This is the 2nd in my series of job search blogs.**
 
 Read the 2021 prequel [[here]](../recruiting-2021)
 

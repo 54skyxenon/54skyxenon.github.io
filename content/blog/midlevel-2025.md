@@ -7,6 +7,9 @@ draft: false
 <!-- https://ibb.co/album/LN8p6h -->
 
 # Navigating the Mid-Level Maze: 2025
+
+**This is the 4th in my series of job search blogs.**
+
 Read the 2023 prequel [[here]](../finale-2023)
 
 ---

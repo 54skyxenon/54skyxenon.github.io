@@ -5,7 +5,8 @@ draft: false
 ---
 
 # Co-op Duels: 2021
-**<i>Last modified on: 2022-11-25</i>**
+
+**This is the 1st in my series of job search blogs.**
 
 {{% blog-shortcode file="https://i.ibb.co/SXXJp52/mw-msft-2021.png" %}}
 
